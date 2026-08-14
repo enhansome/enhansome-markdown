@@ -70,7 +70,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60248
+            "stars": 60249
           }
         },
         {
@@ -111,10 +111,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T02:53:26Z",
+            "last_commit": "2026-08-14T02:03:57Z",
             "owner": "DavidAnson",
             "repo": "markdownlint",
-            "stars": 6273
+            "stars": 6275
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T22:11:49Z",
+            "last_commit": "2026-08-14T06:53:45Z",
             "owner": "DavidAnson",
             "repo": "vscode-markdownlint",
             "stars": 1275
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-02T14:46:42Z",
+            "last_commit": "2026-08-14T11:15:12Z",
             "owner": "hougesen",
             "repo": "mdsf",
             "stars": 109
@@ -181,10 +181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:20:21Z",
+            "last_commit": "2026-08-14T11:20:01Z",
             "owner": "txemi",
             "repo": "darnlink",
-            "stars": 14
+            "stars": 16
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-06-09T20:52:38Z",
             "owner": "resumx",
             "repo": "resumx",
-            "stars": 168
+            "stars": 167
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2025-10-03T14:58:31Z",
             "owner": "jsdoc2md",
             "repo": "jsdoc-to-markdown",
-            "stars": 1760
+            "stars": 1759
           }
         },
         {
@@ -557,10 +557,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T11:18:07Z",
+                "last_commit": "2026-08-14T11:03:47Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 28994
+                "stars": 28996
               }
             }
           ]
@@ -579,7 +579,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T00:12:42Z",
+            "last_commit": "2026-08-13T20:58:41Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:22:26.820Z",
+    "last_updated": "2026-08-14T11:21:20.042Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
     "enhanced_repository": "enhansome/enhansome-markdown",
