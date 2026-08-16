@@ -70,7 +70,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60250
+            "stars": 60251
           }
         },
         {
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:53:45Z",
+            "last_commit": "2026-08-16T01:27:35Z",
             "owner": "DavidAnson",
             "repo": "vscode-markdownlint",
-            "stars": 1276
+            "stars": 1275
           }
         },
         {
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:48:21Z",
+            "last_commit": "2026-08-16T10:48:11Z",
             "owner": "txemi",
             "repo": "darnlink",
             "stars": 16
@@ -557,10 +557,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T17:54:13Z",
+                "last_commit": "2026-08-15T19:06:16Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 28997
+                "stars": 28996
               }
             }
           ]
@@ -579,7 +579,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T23:02:00Z",
+            "last_commit": "2026-08-16T01:30:55Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:50:11.324Z",
+    "last_updated": "2026-08-16T10:50:56.094Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
     "enhanced_repository": "enhansome/enhansome-markdown",
