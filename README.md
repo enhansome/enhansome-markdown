@@ -1,4 +1,4 @@
-Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) ⭐ 2,224 | 🐛 49 | 📅 2026-08-06
+Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) ⭐ 2,226 | 🐛 49 | 📅 2026-08-06
 
 # Awesome Markdown (& Beyond) with stars
 
@@ -35,10 +35,10 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 * [Text w/ Instructions Syntax Samples](https://github.com/texti/texti.github.io/tree/master/samples) ⭐ 9 | 🐛 0 | 📅 2018-08-04  - Idea - let's take a wikipedia page (in wikitext markup) and rewrite in markdown, latex, and yes, text w/ instructions!
 
-**Carve** (web: <https://markup-carve.github.io/carve/>, github: <https://github.com/markup-carve/carve> ⭐ 22 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-17) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - `*strong*`, `/emphasis/`, and `_underline_` - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.
+**Carve** (web: <https://markup-carve.github.io/carve/>, github: <https://github.com/markup-carve/carve> ⭐ 22 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-18) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - `*strong*`, `/emphasis/`, and `_underline_` - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.
 
 * [Carve Playground & Docs](https://markup-carve.github.io/carve/)
-* [Awesome Carve](https://github.com/markup-carve/awesome-carve) ⭐ 4 | 🐛 0 | 📅 2026-08-12 - curated list of Carve resources, tools, and libraries
+* [Awesome Carve](https://github.com/markup-carve/awesome-carve) ⭐ 4 | 🐛 0 | 📅 2026-08-17 - curated list of Carve resources, tools, and libraries
 
 Yes, you can!  Add your improved beyond markdown light markup syntax / language here.
 
@@ -142,7 +142,7 @@ Documentation
 ## Markdown Syntax Extensions
 
 * [SmartyPants](http://daringfireball.net/projects/smartypants) -  convert (c) into ?, "" into ?, etc.
-* [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com) ⭐ 6,322 | 🐛 56 | 🌐 HTML | 📅 2022-05-28
+* [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com) ⭐ 6,321 | 🐛 56 | 🌐 HTML | 📅 2022-05-28
 * [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
 * [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ \[ ] and \[x], etc.
 
@@ -197,7 +197,7 @@ and contents.yml for table of contents and file structure
 **GitHub Flavored Markdown (GFM)**
 
 * Spec (web: [`github.github.com/gfm`](https://github.github.com/gfm))
-* Code (github: [`github/cmark`](https://github.com/github/cmark) ⭐ 1,117 | 🐛 135 | 🌐 C | 📅 2026-07-13 - reference code in C (fork of cmark w/ extensions)
+* Code (github: [`github/cmark`](https://github.com/github/cmark) ⭐ 1,118 | 🐛 135 | 🌐 C | 📅 2026-07-13 - reference code in C (fork of cmark w/ extensions)
 
 Extensions include:
 
@@ -231,7 +231,7 @@ Character encoding
 
 ### Markdown Cheatsheets / Quick References
 
-* [Markdown Cheatsheet :octocat:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,249 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22
+* [Markdown Cheatsheet :octocat:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,250 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22
 * [The Ultimate Markdown Cheat Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ⭐ 823 | 🐛 5 | 🌐 Mermaid | 📅 2025-07-12
 * [Markdown Cheat Sheet & Flavor Compatibility Matrix](https://www.markdowntools.io/cheat-sheet) - Cross-platform cheat sheet with GitHub / Obsidian / Jupyter / Discord / Slack support states per feature, plus printable PDFs.
 
@@ -250,7 +250,7 @@ Character encoding
 
 **Pandoc**
 (web: [`pandoc.org`](http://pandoc.org),
-github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 45,903 | 🐛 1,053 | 🌐 Haskell | 📅 2026-08-17) -
+github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 45,916 | 🐛 1,050 | 🌐 Haskell | 📅 2026-08-17) -
 a universal document converter (in Haskell)
 
 **kramdown**
@@ -267,12 +267,12 @@ markdown library & command line tool (in Ruby)
 <a name="marked"></a>
 
 **marked**
-(web: [`marked.js.org`](https://marked.js.org), github: [marked :octocat:](https://github.com/markedjs/marked) ⭐ 37,056 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-15) a markdown parser and compiler. Built for speed. (In Javascript)
+(web: [`marked.js.org`](https://marked.js.org), github: [marked :octocat:](https://github.com/markedjs/marked) ⭐ 37,062 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-18) a markdown parser and compiler. Built for speed. (In Javascript)
 
 <a name="markdown-it"></a>
 
 **markdown-it**
-(web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it) ⭐ 21,821 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-13) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
+(web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it) ⭐ 21,825 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-13) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
 Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it-plugin).
 
 **concat-md**
@@ -290,7 +290,7 @@ Node.js. Features include drop-in editor component, TypeScript support, and lazy
 Demo](https://deftio.github.io/quikdown/examples/qde/))
 
 **mq**
-(web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq) ⭐ 1,008 | 🐛 12 | 🌐 Rust | 📅 2026-08-17) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
+(web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq) ⭐ 1,008 | 🐛 13 | 🌐 Rust | 📅 2026-08-18) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
 
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx) ⭐ 2,384 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-14, [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
@@ -306,12 +306,12 @@ to be done
 
 ### Markdown Lint / Style Rule Checker
 
-* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,282 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-14 - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
+* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,283 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-18 - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 * [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) ⭐ 1,275 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-16 - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
-* [mdformat](https://github.com/executablebooks/mdformat) ⭐ 810 | 🐛 58 | 🌐 Python | 📅 2026-08-10 - CommonMark compliant Markdown formatter
-* [mado](https://github.com/akiomik/mado) ⭐ 380 | 🐛 8 | 🌐 Rust | 📅 2026-08-10 - A fast Markdown linter written in Rust. GitHub Actions are supported.
+* [mdformat](https://github.com/executablebooks/mdformat) ⭐ 810 | 🐛 58 | 🌐 Python | 📅 2026-08-17 - CommonMark compliant Markdown formatter
+* [mado](https://github.com/akiomik/mado) ⭐ 380 | 🐛 8 | 🌐 Rust | 📅 2026-08-17 - A fast Markdown linter written in Rust. GitHub Actions are supported.
 * [mdsf](https://github.com/hougesen/mdsf) ⭐ 110 | 🐛 33 | 🌐 Rust | 📅 2026-08-14 - Use your preferred code formatter to format markdown code snippets.
-* [darnlink](https://github.com/txemi/darnlink) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2026-08-17 - Python CLI that repairs Markdown links whose target moved (anchored by a UUID) and robustifies plain ones; report-only pre-commit/CI gate. GitHub Action & pre-commit hook included.
+* [darnlink](https://github.com/txemi/darnlink) ⭐ 17 | 🐛 3 | 🌐 Python | 📅 2026-08-17 - Python CLI that repairs Markdown links whose target moved (anchored by a UUID) and robustifies plain ones; report-only pre-commit/CI gate. GitHub Action & pre-commit hook included.
 * [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-03 - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases like "leverage" / "cutting-edge", punctuation density, zero-width unicode tells). EN+PL, MIT, GitHub Action included.
 * [mdlint]() to be done
 
@@ -324,13 +324,13 @@ to be done
 
 **Jekyll**
 (web: [`jekyllrb.com`](http://jekyllrb.com),
-github: [`jekyll/jekyll` :octocat:](https://github.com/jekyll/jekyll) ⭐ 51,632 | 🐛 253 | 🌐 Ruby | 📅 2026-08-03,
+github: [`jekyll/jekyll` :octocat:](https://github.com/jekyll/jekyll) ⭐ 51,636 | 🐛 255 | 🌐 Ruby | 📅 2026-08-03,
 gem: [`jekyll` :gem:](https://rubygems.org/gems/jekyll)) -
 transform your plain text into static websites and blogs (in Ruby)
 
 **Middleman**
 (web: [`middlemanapp.com`](https://middlemanapp.com),
-github: [`middleman/middleman` :octocat:](https://github.com/middleman/middleman) ⭐ 7,112 | 🐛 18 | 🌐 Ruby | 📅 2026-08-16,
+github: [`middleman/middleman` :octocat:](https://github.com/middleman/middleman) ⭐ 7,111 | 🐛 18 | 🌐 Ruby | 📅 2026-08-16,
 gem: [`middleman` :gem:](https://rubygems.org/gems/middleman)) -
 makes developing websites simple (in Ruby)
 
@@ -344,13 +344,13 @@ makes developing websites simple (in Ruby)
 
 **ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-23, npm: [`zenmd`](https://www.npmjs.com/package/zenmd) – The simplest way to convert a folder of Markdown files into a site of HTML files.
 
-**markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Client-side rendering of Markdown website
+**markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Client-side rendering of Markdown website
 
 ### Markdown to Email
 
 **Markdown Here**
 (web: [`markdown-here.com`](http://markdown-here.com),
-github: [`adam-p/markdown-here`](https://github.com/adam-p/markdown-here) ⭐ 60,249 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22) -
+github: [`adam-p/markdown-here`](https://github.com/adam-p/markdown-here) ⭐ 60,250 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22) -
 a browser extension for rendering email written in Markdown;
 available for Chrome, Firefox, Safari, Thunderbird, and more;
 besides email also works with Evernote, Google Groups, Blogger, and more
@@ -365,9 +365,9 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 * Templates (github: [`slideshow-templates`](https://github.com/slideshow-templates))
 
-**Slidev** (github: [`slidev`](http://github.com/slidevjs/slidev) ⭐ 48,116 | 🐛 207 | 🌐 TypeScript | 📅 2026-08-14) - Slidev allows you to create slideshows from a markdown file. You can include HTML and Vue components in the markdown.
+**Slidev** (github: [`slidev`](http://github.com/slidevjs/slidev) ⭐ 48,132 | 🐛 208 | 🌐 TypeScript | 📅 2026-08-14) - Slidev allows you to create slideshows from a markdown file. You can include HTML and Vue components in the markdown.
 
-**Markpress** (github: [`markpress`](https://github.com/gamell/markpress) ⭐ 77 | 🐛 5 | 🌐 CSS | 📅 2022-11-19) - A command line tool and node package to convert markdown files into self-contained [impressjs](https://github.com/impress/impress.js/) ⭐ 38,174 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23 html presentations. [Example](https://gamell.github.io/markpress)
+**Markpress** (github: [`markpress`](https://github.com/gamell/markpress) ⭐ 77 | 🐛 5 | 🌐 CSS | 📅 2022-11-19) - A command line tool and node package to convert markdown files into self-contained [impressjs](https://github.com/impress/impress.js/) ⭐ 38,173 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23 html presentations. [Example](https://gamell.github.io/markpress)
 
 **nodePPT** (github: [`nodePPT`](https://github.com/ksky521/nodePPT) ⚠️ Archived) - A web presentation tool supporting markdown based on GFM.
 
@@ -381,7 +381,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 ### Markdown to Portable Document Format (PDF)
 
-* [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf) ⭐ 2,876 | 🐛 92 | 🌐 JavaScript | 📅 2023-10-19, [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
+* [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf) ⭐ 2,875 | 🐛 92 | 🌐 JavaScript | 📅 2023-10-19, [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
 * [Resumx](https://resumx.dev) [:octocat:](https://github.com/resumx/resumx) ⭐ 168 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-09 - Markdown resume renderer with auto page-fitting that outputs PDF, HTML, DOCX, and PNG
 * [em-dee-pdf :octocat:](https://github.com/brendandebeasi/em-dee-pdf) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-06-05 - converts Markdown files to styled PDFs using Typst with 18 built-in themes, LaTeX math, and syntax highlighting
 
@@ -403,7 +403,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 * **Generate a markdown table of contents (TOC) with [remarkable](https://github.com/jonschlinkert/remarkable) ⭐ 5,843 | 🐛 133 | 🌐 JavaScript | 📅 2024-05-17**
   (github: [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) ⭐ 1,756 | 🐛 91 | 🌐 JavaScript | 📅 2024-08-09)
-* [mdtoc :octocat:](https://github.com/tallclair/mdtoc) ⭐ 48 | 🐛 1 | 🌐 Go | 📅 2026-07-20 - Standalone TOC generator designed for CI
+* [mdtoc :octocat:](https://github.com/tallclair/mdtoc) ⭐ 48 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - Standalone TOC generator designed for CI
 * [markedpp](#markedpp) Markdown to Markdown Pre-Processor
 
 ### Markdown to Markdown Pre-Processor
@@ -496,7 +496,7 @@ JavaScript / Node.js
 * [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line by Michael Hartl et al
   * [Softcover :octocat:](https://github.com/softcover/softcover) ⭐ 447 | 🐛 3 | 🌐 Ruby | 📅 2026-06-24, [:gem:](https://rubygems.org/gems/softcover) - a command line tool for book generation, building, and publishing
 * [GitBook.com](https://www.gitbook.com)  - write and publish books with Markdown and Git by Samy Pessé et al
-  * [GitBook :octocat:](https://github.com/GitbookIO/gitbook) ⭐ 28,999 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-17 - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
+  * [GitBook :octocat:](https://github.com/GitbookIO/gitbook) ⭐ 29,001 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-18 - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
 
 <!-- break -->
 
@@ -505,7 +505,7 @@ JavaScript / Node.js
 
 ## Protocol
 
-* [demarkus](https://github.com/latebit-io/demarkus) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2026-08-16 - De-centralized markup for us: a markdown protocol, server, browser, and tools
+* [demarkus](https://github.com/latebit-io/demarkus) ⭐ 15 | 🐛 7 | 🌐 Go | 📅 2026-08-18 - De-centralized markup for us: a markdown protocol, server, browser, and tools
 * [MarkWay](https://github.com/RaysunKR/MarkWay) ⭐ 2 | 🐛 0 | 📅 2026-06-03 - An HTTP protocol standard designed for AI Agents, enabling machines to browse the web more intelligently.
 
 ## Articles
@@ -527,4 +527,4 @@ Send them along to the markdown-discuss mailing list. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

@@ -70,7 +70,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60249
+            "stars": 60250
           }
         },
         {
@@ -111,10 +111,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:48:44Z",
+            "last_commit": "2026-08-18T05:05:18Z",
             "owner": "DavidAnson",
             "repo": "markdownlint",
-            "stars": 6282
+            "stars": 6283
           }
         },
         {
@@ -139,7 +139,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:43:27Z",
+            "last_commit": "2026-08-17T17:52:33Z",
             "owner": "hukkin",
             "repo": "mdformat",
             "stars": 810
@@ -153,7 +153,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T18:27:34Z",
+            "last_commit": "2026-08-17T21:09:13Z",
             "owner": "akiomik",
             "repo": "mado",
             "stars": 380
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-17T06:25:33Z",
             "owner": "txemi",
             "repo": "darnlink",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2023-10-19T06:34:40Z",
             "owner": "alanshaw",
             "repo": "markdown-pdf",
-            "stars": 2876
+            "stars": 2875
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-20T22:53:13Z",
+            "last_commit": "2026-08-18T06:51:18Z",
             "owner": "kubernetes-sigs",
             "repo": "mdtoc",
             "stars": 48
@@ -557,10 +557,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:52:10Z",
+                "last_commit": "2026-08-18T10:25:56Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 28999
+                "stars": 29001
               }
             }
           ]
@@ -579,7 +579,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T19:37:02Z",
+            "last_commit": "2026-08-18T07:57:01Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:58:34.229Z",
+    "last_updated": "2026-08-18T10:57:12.224Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
     "enhanced_repository": "enhansome/enhansome-markdown",
