@@ -666,7 +666,7 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-19T01:06:44Z",
+            "last_commit": "2026-08-19T12:22:17Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -692,8 +692,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:57:01.320Z",
+    "last_updated": "2026-08-19T12:41:07.650Z",
     "original_repository": "mundimark/awesome-markdown",
+    "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
     "enhanced_repository": "enhansome/enhansome-markdown",
     "enhanced_repository_description": null,
