@@ -67,7 +67,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60250
+                "stars": 60251
               }
             },
             {
@@ -82,7 +82,7 @@
                 "last_commit": "2025-07-12T15:09:57Z",
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 823
+                "stars": 824
               }
             }
           ],
@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 32246828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T02:27:01Z",
+                "last_commit": "2026-08-21T06:44:15Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6289
+                "stars": 6293
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-08-16T01:27:35Z",
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1277
+                "stars": 1278
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-06-03T00:34:30Z",
                 "owner": "antydizajn",
                 "repo": "ai-slop-detect",
-                "stars": 4
+                "stars": 5
               }
             }
           ],
@@ -422,7 +422,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11395
+                "stars": 11396
               }
             },
             {
@@ -511,7 +511,7 @@
                 "last_commit": "2024-06-04T23:50:09Z",
                 "owner": "Mermade",
                 "repo": "widdershins",
-                "stars": 1581
+                "stars": 1580
               }
             },
             {
@@ -643,10 +643,10 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T10:50:05Z",
+                "last_commit": "2026-08-21T09:30:19Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29003
+                "stars": 29005
               }
             }
           ]
@@ -666,7 +666,7 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-20T07:59:44Z",
+            "last_commit": "2026-08-21T01:13:13Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -692,7 +692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:58:48.402Z",
+    "last_updated": "2026-08-21T10:59:31.522Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
