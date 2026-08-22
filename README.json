@@ -67,7 +67,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60251
+                "stars": 60250
               }
             },
             {
@@ -82,7 +82,7 @@
                 "last_commit": "2025-07-12T15:09:57Z",
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 824
+                "stars": 825
               }
             }
           ],
@@ -110,7 +110,7 @@
                 "last_commit": "2026-08-21T06:44:15Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6293
+                "stars": 6295
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-08-16T01:27:35Z",
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1278
+                "stars": 1279
               }
             },
             {
@@ -274,7 +274,7 @@
                 "last_commit": "2024-05-17T12:20:51Z",
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5843
+                "stars": 5842
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2025-10-03T14:58:31Z",
                 "owner": "jsdoc2md",
                 "repo": "jsdoc-to-markdown",
-                "stars": 1759
+                "stars": 1758
               }
             },
             {
@@ -643,10 +643,10 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:30:19Z",
+                "last_commit": "2026-08-21T18:30:34Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29005
+                "stars": 29004
               }
             }
           ]
@@ -692,7 +692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:59:31.522Z",
+    "last_updated": "2026-08-22T10:51:31.906Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
