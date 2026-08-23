@@ -67,7 +67,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60250
+                "stars": 60248
               }
             },
             {
@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 32246828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T06:44:15Z",
+                "last_commit": "2026-08-22T16:05:09Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6295
+                "stars": 6296
               }
             },
             {
@@ -274,7 +274,7 @@
                 "last_commit": "2024-05-17T12:20:51Z",
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5842
+                "stars": 5843
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11396
+                "stars": 11397
               }
             },
             {
@@ -666,7 +666,7 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-21T01:13:13Z",
+            "last_commit": "2026-08-23T02:18:34Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -692,7 +692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:51:31.906Z",
+    "last_updated": "2026-08-23T10:52:18.259Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
