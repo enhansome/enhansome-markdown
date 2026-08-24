@@ -7,6 +7,79 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Versadoc Syntax Page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 914554701,
+                "language": "Ruby",
+                "last_commit": "2026-07-05T08:34:20Z",
+                "owner": "gettalong",
+                "repo": "versadok",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text w/ Instructions Syntax Samples",
+              "description": "Idea - let's take a wikipedia page (in wikitext markup) and rewrite in markdown, latex, and yes, text w/ instructions!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97221526,
+                "language": null,
+                "last_commit": "2018-08-04T17:53:20Z",
+                "owner": "texti",
+                "repo": "texti.github.io",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Carve",
+              "description": "curated list of Carve resources, tools, and libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1238126820,
+                "language": null,
+                "last_commit": "2026-08-23T14:00:24Z",
+                "owner": "markup-carve",
+                "repo": "awesome-carve",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Djot (web: https://djot.net, github: https://github.com/jgm/djot) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.\nVersadoc (github: https://github.com/gettalong/versadok) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.\nTexti (Text w/ Instructions) (github: https://github.com/texti) - by Gerald Bauer (Austria); a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more.\nCarve (web: https://markup-carve.github.io/carve/, github: https://github.com/markup-carve/carve) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - , , and - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.\nYes, you can! Add your improved beyond markdown light markup syntax / language here.",
+          "node_type": "group",
+          "title": "Beyond Markdown - Let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)"
+        }
+      ],
+      "title": "What's News?"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emojis",
+          "description": ":octocat:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2592600,
+            "language": "HTML",
+            "last_commit": "2022-05-28T07:47:03Z",
+            "owner": "WebpageFX",
+            "repo": "emoji-cheat-sheet.com",
+            "stars": 6320
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MultiMarkdown.pl :octocat:",
               "description": "historic MultiMarkdown.pl code; converter script in Perl (last update in Jan 2011)",
               "children": [],
@@ -46,9 +119,115 @@
           "description": null,
           "node_type": "group",
           "title": "MultiMarkdown (MMD)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code :octocat:",
+              "description": "converter script in PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51593005,
+                "language": null,
+                "last_commit": "2016-02-12T15:39:40Z",
+                "owner": "piwi",
+                "repo": "markdown-extended",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown Extended (MDE)"
         }
       ],
       "title": "Markdown Syntax Extensions"
+    },
+    {
+      "description": "Free book format for Markdown\nManuscripts (web: , github: ) - adds book.yml for book (meta) info e.g. title, author, publisher, year etc. and contents.yml for table of contents and file structure",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manuscripts Book Starter Kit (github:",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53625913,
+            "language": null,
+            "last_commit": "2016-07-04T07:42:01Z",
+            "owner": "manuscripts",
+            "repo": "book-starter",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Manuscripts"
+    },
+    {
+      "description": "A strongly specified, highly compatible implementation of Markdown\nCommonMark (web: )",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code (github:",
+          "description": ") - spec and reference code in JavaScript and C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22942790,
+            "language": "Python",
+            "last_commit": "2026-04-27T19:15:35Z",
+            "owner": "commonmark",
+            "repo": "commonmark-spec",
+            "stars": 5132
+          }
+        }
+      ],
+      "title": "CommonMark"
+    },
+    {
+      "description": "CommonMark with GitHub Extensions\nGitHub Flavored Markdown (GFM)\nExtensions include:\nLeaf Blocks: Tables ++ Container Blocks: Task list items ++ Inlines: Strikethrough; Autolinks; Disallowed Raw HTML",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code (github:",
+          "description": "reference code in C (fork of cmark w/ extensions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75244322,
+            "language": "C",
+            "last_commit": "2026-07-13T14:36:08Z",
+            "owner": "github",
+            "repo": "cmark-gfm",
+            "stars": 1121
+          }
+        }
+      ],
+      "title": "GitHub Flavored Markdown (GFM)"
+    },
+    {
+      "description": "A variant of Markdown with an unambiguous specification of its syntax\nVanilla Flavored Markdown (VFMD) (web: , github: )\nDifferences include:\nIntra-word emphasis; Simplified reference link/image syntax; Lists and the 4-space rule; Better automatic link detection; Double blank lines as end of blocks; Starting number in lists; Misnested constructs; Including raw HTML; Character encoding",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code (github:",
+          "description": ") - reference code in C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16938012,
+            "language": "C",
+            "last_commit": "2014-06-23T15:25:10Z",
+            "owner": "vfmd",
+            "repo": "vfmd-src",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Vanilla Flavored Markdown (VFMD)"
     },
     {
       "description": null,
@@ -89,6 +268,28 @@
           "description": null,
           "node_type": "group",
           "title": "Markdown Cheatsheets / Quick References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown Tutorial",
+              "description": ":octocat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10376685,
+                "language": "HTML",
+                "last_commit": "2026-06-29T13:25:05Z",
+                "owner": "gjtorikian",
+                "repo": "markdowntutorial.com",
+                "stars": 603
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown Getting Started Guides / Tutorials"
         }
       ],
       "title": "Markdown Documentation"
@@ -96,6 +297,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mdcode (github: mdcode",
+              "description": ") Markdown code block authoring tool. It enables testable code blocks, with two-way synchronization between code blocks and source files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740676029,
+                "language": "Go",
+                "last_commit": "2026-02-23T12:38:09Z",
+                "owner": "szkiba",
+                "repo": "mdcode",
+                "stars": 28
+              }
+            }
+          ],
+          "description": "Pandoc (web: , github: github.com/jgm/pandoc) - a universal document converter (in Haskell)\nkramdown (web: , github: , gem: ) - markdown library & command line tool (in Ruby)\nMarkdown Extended (MDE) (github:\nmarked (web: , github: marked :octocat:) a markdown parser and compiler. Built for speed. (In Javascript)\nmarkdown-it (web: , github: markdown-it :octocat:) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed. Is extensible with plugins.\nconcat-md (npm, github) CLI and API to concatenate markdown files and modify as necessary. Also adds titles from FrontMatter, file names and directory names, decreases level of existing titles to comply with added titles.\nquikdown (web, npm, github :octocat:) Lightweight (10KB) markdown parser with bidirectional HTML conversion, built-in XSS protection, and extensible plugin system. Zero dependencies, works in browser and Node.js. Features include drop-in editor component, TypeScript support, and lazy linefeeds for chat applications. (Live Parser Demo, Editor Demo)\nmq (web: mqlang.org, github: mq :octocat:) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.\nmarkdown-to-jsx (web: markdown-to-jsx.quantizor.dev, github: markdown-to-jsx :octocat:, npm) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!",
+          "node_type": "group",
+          "title": "Markdown Libraries & Tools"
+        },
         {
           "children": [
             {
@@ -110,7 +333,7 @@
                 "last_commit": "2026-08-24T02:08:51Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6295
+                "stars": 6296
               }
             },
             {
@@ -212,6 +435,65 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Markdown-Tag",
+              "description": "Render Markdown to HTML on any website using a md tag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494000316,
+                "language": "CSS",
+                "last_commit": "2022-11-09T19:41:26Z",
+                "owner": "MarketingPipeline",
+                "repo": "Markdown-Tag",
+                "stars": 462
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown Web Components / Custom Elements"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slate (github: lord/slate :octocat:",
+              "description": ") - beautiful API documentation, based on Middleman",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12820537,
+                "language": null,
+                "last_commit": "2026-02-01T05:54:12Z",
+                "owner": "slatedocs",
+                "repo": "slate",
+                "stars": 36037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shins (github: :octocat:",
+              "description": ", npm: ) – beautiful API documentation, with node.js (port of Slate)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 70063425,
+                "language": "JavaScript",
+                "last_commit": "2020-12-31T18:22:18Z",
+                "owner": "Mermade",
+                "repo": "shins",
+                "stars": 248
+              }
+            }
+          ],
+          "description": "Jekyll (web: , github: :octocat:, gem: :gem:) - transform your plain text into static websites and blogs (in Ruby)\nMiddleman (web: , github: :octocat:, gem: :gem:) - makes developing websites simple (in Ruby)\nmd-fileserver (github: md-fileserver :octocat:, npm: ) – View markdown files locally in browser.\nCompiiile (github: @compiiile/compiiile :octocat:, npm: ) – Preview and serve folders containing Markdown files with full-text search and presentation slides.\nZenMD (github: , npm: – The simplest way to convert a folder of Markdown files into a site of HTML files.\nmarkdown-pages.js (github: markdown-pages.js :octocat: - Client-side rendering of Markdown website",
+          "node_type": "group",
+          "title": "Markdown to Website / Blog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "markdown-pdf :octocat:",
               "description": ", (npm Package) - converts Markdown files to PDFs",
               "children": [],
@@ -264,8 +546,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Generate a markdown table of contents (TOC) with remarkable (github:",
-              "description": ")",
+              "title": "Generate a markdown table of contents (TOC) with remarkable",
+              "description": "(github: )",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -296,6 +578,50 @@
           "description": null,
           "node_type": "group",
           "title": "Markdown to Table of Contents (TOC)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "markedpp (github: markedpp :octocat:",
+              "description": ") adds support for table-of-contents (TOC), numbered headings, includes other markdown files and/or create reference lists for use with different markdown processors like marked, markdown-it, pandoc or for hosting on github.com, gitlab.com, bitbucket.org or ghost.org.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23546920,
+                "language": "JavaScript",
+                "last_commit": "2025-08-18T06:56:43Z",
+                "owner": "commenthol",
+                "repo": "markedpp",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown to Markdown Pre-Processor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mk-notes",
+              "description": "Sync your local Markdown files seamlessly to Notion. Keep writing in Markdown and let mk-notes handle the integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 924239110,
+                "language": "TypeScript",
+                "last_commit": "2025-12-23T17:06:28Z",
+                "owner": "Myastr0",
+                "repo": "mk-notes",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown to Notion"
         }
       ],
       "title": "Markdown Building Blocks"
@@ -303,6 +629,94 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "word-to-markdowm gem :octocat:",
+              "description": ", :gem: - \"liberate\" content from the jail that is Microsoft Word documents; converts to plain-text Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18018625,
+                "language": "Ruby",
+                "last_commit": "2026-07-30T20:33:42Z",
+                "owner": "benbalter",
+                "repo": "word-to-markdown",
+                "stars": 1550
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Microsoft Word to Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "doc2md :octocat:",
+              "description": "high-fidelity PDF, DOCX, and PPTX to Markdown conversion pipeline with multi-extractor support (pymupdf, pdfplumber, MinerU), image extraction, per-image classification, and multi-stage quality control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164221215,
+                "language": "Python",
+                "last_commit": "2026-03-01T00:25:51Z",
+                "owner": "neoncapy",
+                "repo": "doc2md",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PDF / Office Documents to Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jimmy :octocat:",
+              "description": "Convert your notes to Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 780390631,
+                "language": "Python",
+                "last_commit": "2026-08-23T08:53:33Z",
+                "owner": "marph91",
+                "repo": "jimmy",
+                "stars": 528
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Various Note Formats to Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "linkedin2md :octocat:",
+              "description": ", :snake: - zero-dependency Python CLI to convert LinkedIn data export ZIPs into clean, structured Markdown files optimized for LLM analysis; optional PDF resume generation via",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1138316448,
+                "language": "Python",
+                "last_commit": "2026-08-12T00:19:08Z",
+                "owner": "juanmanueldaza",
+                "repo": "linkedin2md",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LinkedIn / Career Data to Markdown"
+        },
         {
           "children": [
             {
@@ -476,6 +890,21 @@
                   }
                 }
               ]
+            },
+            {
+              "node_type": "item",
+              "title": "Markdown Web Clipper :octocat:",
+              "description": "free, MIT-licensed Chrome extension that converts any webpage to clean Markdown (tables, code blocks, math, footnotes) and saves it to a local folder, GitHub Gist, or the clipboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1241727298,
+                "language": "TypeScript",
+                "last_commit": "2026-07-11T09:36:32Z",
+                "owner": "Tigrandza",
+                "repo": "markdown-web-clipper",
+                "stars": 5
+              }
             }
           ],
           "description": "Ruby\nJavaScript / Node.js\nMore",
@@ -643,10 +1072,32 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:19:08Z",
+                "last_commit": "2026-08-24T12:17:30Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
                 "stars": 29005
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bitbooks.cc (discontinued; archived)",
+          "description": "Bitbooks turns a repo full of markdown files into a handsome, hosted, online book - by Bryan Braun",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Franklin :octocat:",
+              "description": "a static-site framework, optimized for online books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20817311,
+                "language": "CSS",
+                "last_commit": "2017-01-13T20:53:33Z",
+                "owner": "bryanbraun",
+                "repo": "franklin",
+                "stars": 143
               }
             }
           ]
@@ -692,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:03:49.858Z",
+    "last_updated": "2026-08-24T14:05:18.834Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
