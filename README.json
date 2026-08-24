@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 32246828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T16:05:09Z",
+                "last_commit": "2026-08-24T02:08:51Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6296
+                "stars": 6295
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-17T17:52:33Z",
                 "owner": "hukkin",
                 "repo": "mdformat",
-                "stars": 811
+                "stars": 812
               }
             },
             {
@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 1297480499,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:25:33Z",
+                "last_commit": "2026-08-23T16:13:32Z",
                 "owner": "txemi",
                 "repo": "darnlink",
                 "stars": 18
@@ -200,7 +200,7 @@
                 "last_commit": "2026-06-03T00:34:30Z",
                 "owner": "antydizajn",
                 "repo": "ai-slop-detect",
-                "stars": 5
+                "stars": 6
               }
             }
           ],
@@ -422,7 +422,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11397
+                "stars": 11399
               }
             },
             {
@@ -643,10 +643,10 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T18:30:34Z",
+                "last_commit": "2026-08-24T10:19:08Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29004
+                "stars": 29005
               }
             }
           ]
@@ -666,7 +666,7 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-23T02:18:34Z",
+            "last_commit": "2026-08-23T23:54:48Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -692,7 +692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:52:18.259Z",
+    "last_updated": "2026-08-24T11:03:49.858Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
