@@ -246,7 +246,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60249
+                "stars": 60248
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2026-08-25T03:56:59Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6296
+                "stars": 6297
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11400
+                "stars": 11401
               }
             },
             {
@@ -1072,7 +1072,7 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:59:59Z",
+                "last_commit": "2026-08-25T11:01:07Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
                 "stars": 29009
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:44.160Z",
+    "last_updated": "2026-08-25T11:01:18.942Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
