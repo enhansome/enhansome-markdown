@@ -73,7 +73,7 @@
             "last_commit": "2022-05-28T07:47:03Z",
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6321
+            "stars": 6322
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-04-27T19:15:35Z",
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5133
+            "stars": 5134
           }
         }
       ],
@@ -246,7 +246,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60248
+                "stars": 60246
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2025-07-12T15:09:57Z",
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 825
+                "stars": 827
               }
             }
           ],
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 32246828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T03:56:59Z",
+                "last_commit": "2026-08-26T05:55:39Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6297
+                "stars": 6302
               }
             },
             {
@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 46678080,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T03:48:03Z",
+                "last_commit": "2026-08-26T00:05:00Z",
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
                 "stars": 1279
@@ -405,7 +405,7 @@
                 "archived": false,
                 "id": 1297480499,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:13:32Z",
+                "last_commit": "2026-08-25T22:13:08Z",
                 "owner": "txemi",
                 "repo": "darnlink",
                 "stars": 18
@@ -556,7 +556,7 @@
                 "last_commit": "2024-05-17T12:20:51Z",
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5843
+                "stars": 5844
               }
             },
             {
@@ -731,7 +731,7 @@
                 "last_commit": "2026-01-20T13:18:59Z",
                 "owner": "xijo",
                 "repo": "reverse_markdown",
-                "stars": 680
+                "stars": 681
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11401
+                "stars": 11403
               }
             },
             {
@@ -1072,10 +1072,10 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T11:01:07Z",
+                "last_commit": "2026-08-26T10:57:45Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29009
+                "stars": 29011
               }
             }
           ]
@@ -1117,7 +1117,7 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-24T23:57:10Z",
+            "last_commit": "2026-08-26T10:24:27Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:01:18.942Z",
+    "last_updated": "2026-08-26T11:03:43.603Z",
     "original_repository": "mundimark/awesome-markdown",
     "original_repository_id": 34983527,
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
