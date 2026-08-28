@@ -18,7 +18,8 @@
                 "owner": "gettalong",
                 "repo": "versadok",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "texti",
                 "repo": "texti.github.io",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "Djot (web: https://djot.net, github: https://github.com/jgm/djot) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.\nVersadoc (github: https://github.com/gettalong/versadok) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.\nTexti (Text w/ Instructions) (github: https://github.com/texti) - by Gerald Bauer (Austria); a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more.\nCarve (web: https://markup-carve.github.io/carve/, github: https://github.com/markup-carve/carve) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - , , and - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.\nYes, you can! Add your improved beyond markdown light markup syntax / language here.",
@@ -74,7 +77,8 @@
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
             "stars": 6322
-          }
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         },
         {
           "children": [
@@ -91,7 +95,8 @@
                 "owner": "fletcher",
                 "repo": "MultiMarkdown",
                 "stars": 1070
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "group",
@@ -111,7 +116,8 @@
                     "owner": "fletcher",
                     "repo": "MMD-Test-Suite",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:13:14.629Z"
                 }
               ]
             }
@@ -135,7 +141,8 @@
                 "owner": "piwi",
                 "repo": "markdown-extended",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -161,7 +168,8 @@
             "owner": "manuscripts",
             "repo": "book-starter",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         }
       ],
       "title": "Manuscripts"
@@ -181,8 +189,9 @@
             "last_commit": "2026-04-27T19:15:35Z",
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5136
-          }
+            "stars": 5137
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         }
       ],
       "title": "CommonMark"
@@ -202,8 +211,9 @@
             "last_commit": "2026-07-13T14:36:08Z",
             "owner": "github",
             "repo": "cmark-gfm",
-            "stars": 1124
-          }
+            "stars": 1125
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         }
       ],
       "title": "GitHub Flavored Markdown (GFM)"
@@ -224,7 +234,8 @@
             "owner": "vfmd",
             "repo": "vfmd-src",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         }
       ],
       "title": "Vanilla Flavored Markdown (VFMD)"
@@ -247,7 +258,8 @@
                 "owner": "adam-p",
                 "repo": "markdown-here",
                 "stars": 60248
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -261,8 +273,9 @@
                 "last_commit": "2025-07-12T15:09:57Z",
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 829
-              }
+                "stars": 831
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -284,7 +297,8 @@
                 "owner": "gjtorikian",
                 "repo": "markdowntutorial.com",
                 "stars": 604
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -312,7 +326,8 @@
                 "owner": "szkiba",
                 "repo": "mdcode",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "Pandoc (web: , github: github.com/jgm/pandoc) - a universal document converter (in Haskell)\nkramdown (web: , github: , gem: ) - markdown library & command line tool (in Ruby)\nMarkdown Extended (MDE) (github:\nmarked (web: , github: marked :octocat:) a markdown parser and compiler. Built for speed. (In Javascript)\nmarkdown-it (web: , github: markdown-it :octocat:) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed. Is extensible with plugins.\nconcat-md (npm, github) CLI and API to concatenate markdown files and modify as necessary. Also adds titles from FrontMatter, file names and directory names, decreases level of existing titles to comply with added titles.\nquikdown (web, npm, github :octocat:) Lightweight (10KB) markdown parser with bidirectional HTML conversion, built-in XSS protection, and extensible plugin system. Zero dependencies, works in browser and Node.js. Features include drop-in editor component, TypeScript support, and lazy linefeeds for chat applications. (Live Parser Demo, Editor Demo)\nmq (web: mqlang.org, github: mq :octocat:) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.\nmarkdown-to-jsx (web: markdown-to-jsx.quantizor.dev, github: markdown-to-jsx :octocat:, npm) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!",
@@ -330,11 +345,12 @@
                 "archived": false,
                 "id": 32246828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T05:55:39Z",
+                "last_commit": "2026-08-28T02:18:04Z",
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6306
-              }
+                "stars": 6307
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -345,11 +361,12 @@
                 "archived": false,
                 "id": 46678080,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T23:05:07Z",
+                "last_commit": "2026-08-28T20:58:31Z",
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1279
-              }
+                "stars": 1278
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -363,8 +380,9 @@
                 "last_commit": "2026-08-17T17:52:33Z",
                 "owner": "hukkin",
                 "repo": "mdformat",
-                "stars": 812
-              }
+                "stars": 814
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -378,8 +396,9 @@
                 "last_commit": "2026-08-24T15:11:36Z",
                 "owner": "akiomik",
                 "repo": "mado",
-                "stars": 381
-              }
+                "stars": 382
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -394,7 +413,8 @@
                 "owner": "hougesen",
                 "repo": "mdsf",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -405,11 +425,12 @@
                 "archived": false,
                 "id": 1297480499,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:36:20Z",
+                "last_commit": "2026-08-28T00:14:26Z",
                 "owner": "txemi",
                 "repo": "darnlink",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -424,7 +445,8 @@
                 "owner": "antydizajn",
                 "repo": "ai-slop-detect",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -446,7 +468,8 @@
                 "owner": "MarketingPipeline",
                 "repo": "Markdown-Tag",
                 "stars": 462
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -467,8 +490,9 @@
                 "last_commit": "2026-02-01T05:54:12Z",
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36037
-              }
+                "stars": 36038
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -483,7 +507,8 @@
                 "owner": "Mermade",
                 "repo": "shins",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "Jekyll (web: , github: :octocat:, gem: :gem:) - transform your plain text into static websites and blogs (in Ruby)\nMiddleman (web: , github: :octocat:, gem: :gem:) - makes developing websites simple (in Ruby)\nmd-fileserver (github: md-fileserver :octocat:, npm: ) – View markdown files locally in browser.\nCompiiile (github: @compiiile/compiiile :octocat:, npm: ) – Preview and serve folders containing Markdown files with full-text search and presentation slides.\nZenMD (github: , npm: – The simplest way to convert a folder of Markdown files into a site of HTML files.\nmarkdown-pages.js (github: markdown-pages.js :octocat: - Client-side rendering of Markdown website",
@@ -505,7 +530,8 @@
                 "owner": "alanshaw",
                 "repo": "markdown-pdf",
                 "stars": 2876
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -520,7 +546,8 @@
                 "owner": "resumx",
                 "repo": "resumx",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -535,7 +562,8 @@
                 "owner": "brendandebeasi",
                 "repo": "em-dee-pdf",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -557,7 +585,8 @@
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
                 "stars": 5844
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -572,7 +601,8 @@
                 "owner": "kubernetes-sigs",
                 "repo": "mdtoc",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -594,7 +624,8 @@
                 "owner": "commenthol",
                 "repo": "markedpp",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -616,7 +647,8 @@
                 "owner": "Myastr0",
                 "repo": "mk-notes",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -644,7 +676,8 @@
                 "owner": "benbalter",
                 "repo": "word-to-markdown",
                 "stars": 1550
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -666,7 +699,8 @@
                 "owner": "neoncapy",
                 "repo": "doc2md",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -688,7 +722,8 @@
                 "owner": "marph91",
                 "repo": "jimmy",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -710,7 +745,8 @@
                 "owner": "juanmanueldaza",
                 "repo": "linkedin2md",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": null,
@@ -732,7 +768,8 @@
                 "owner": "xijo",
                 "repo": "reverse_markdown",
                 "stars": 681
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -747,7 +784,8 @@
                 "owner": "soffes",
                 "repo": "unmarkdown",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -762,7 +800,8 @@
                 "owner": "29decibel",
                 "repo": "html2markdown",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -777,7 +816,8 @@
                 "owner": "pmorton",
                 "repo": "html2md",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -792,7 +832,8 @@
                 "owner": "conversation",
                 "repo": "upmark",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -807,7 +848,8 @@
                 "owner": "mislav",
                 "repo": "remark",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -822,7 +864,8 @@
                 "owner": "jcheatham",
                 "repo": "hypertextmarkdown",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -837,7 +880,8 @@
                 "owner": "mixmark-io",
                 "repo": "turndown",
                 "stars": 11407
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -852,7 +896,8 @@
                 "owner": "alexgorbatchev",
                 "repo": "html2markdown",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -867,7 +912,8 @@
                 "owner": "zcag",
                 "repo": "copymd",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "group",
@@ -887,7 +933,8 @@
                     "owner": "bambax",
                     "repo": "markitdown.medusis.com",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:13:14.629Z"
                 }
               ]
             },
@@ -904,7 +951,8 @@
                 "owner": "Tigrandza",
                 "repo": "markdown-web-clipper",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "Ruby\nJavaScript / Node.js\nMore",
@@ -925,8 +973,9 @@
                 "last_commit": "2025-10-03T14:58:31Z",
                 "owner": "jsdoc2md",
                 "repo": "jsdoc-to-markdown",
-                "stars": 1758
-              }
+                "stars": 1759
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -941,7 +990,8 @@
                 "owner": "Mermade",
                 "repo": "widdershins",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -952,11 +1002,12 @@
                 "archived": false,
                 "id": 73318407,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:31:47Z",
+                "last_commit": "2026-08-28T09:45:51Z",
                 "owner": "sourcey",
                 "repo": "moxygen",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1022,8 @@
                 "owner": "albinotonnina",
                 "repo": "mmarkdown",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1038,8 @@
                 "owner": "raml2html",
                 "repo": "markdown-theme",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "Generate API documentation from source code in Markdown, then host it on the web using one of the many Markdown to Website tools to host and serve it.",
@@ -1008,7 +1061,8 @@
                 "owner": "IonicaBizau",
                 "repo": "json2md",
                 "stars": 653
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1077,8 @@
                 "owner": "kgar",
                 "repo": "ts-markdown",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ],
           "description": "JavaScript / Node.js",
@@ -1054,7 +1109,8 @@
                 "owner": "softcover",
                 "repo": "softcover",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ]
         },
@@ -1072,11 +1128,12 @@
                 "archived": false,
                 "id": 18280236,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:42:48Z",
+                "last_commit": "2026-08-28T19:39:15Z",
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29016
-              }
+                "stars": 29017
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ]
         },
@@ -1098,7 +1155,8 @@
                 "owner": "bryanbraun",
                 "repo": "franklin",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T21:13:14.629Z"
             }
           ]
         }
@@ -1117,11 +1175,12 @@
             "archived": false,
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-27T20:13:05Z",
+            "last_commit": "2026-08-28T20:26:14Z",
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         },
         {
           "node_type": "item",
@@ -1136,14 +1195,15 @@
             "owner": "RaysunKR",
             "repo": "MarkWay",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:14.629Z"
         }
       ],
       "title": "Protocol"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:42:04.098Z",
+    "last_updated": "2026-08-28T21:13:14.629Z",
     "original_repository_info": {
       "archived": false,
       "id": 34983527,
