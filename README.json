@@ -334,7 +334,7 @@
                 "open_issues": 318,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60249,
+                "stars": 60250,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -454,7 +454,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T02:18:04Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
                 "stars": 6309,
@@ -562,7 +562,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-14T11:15:12Z",
-                "open_issues": 33,
+                "open_issues": 35,
                 "owner": "hougesen",
                 "repo": "mdsf",
                 "stars": 111,
@@ -1091,7 +1091,7 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-23T08:53:33Z",
+                "last_commit": "2026-08-29T09:38:45Z",
                 "open_issues": 14,
                 "owner": "marph91",
                 "repo": "jimmy",
@@ -1338,7 +1338,7 @@
                 "open_issues": 150,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11408,
+                "stars": 11407,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1722,7 +1722,7 @@
                 "open_issues": 102,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29017,
+                "stars": 29018,
                 "topics": [
                   "documentation",
                   "git",
@@ -1780,8 +1780,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T01:56:04Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-29T14:14:47Z",
+            "open_issues": 7,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15,
@@ -1826,7 +1826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:00.986Z",
+    "last_updated": "2026-08-29T15:14:37.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
