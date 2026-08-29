@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile document creation markup and library",
+                "homepage": null,
                 "id": 914554701,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-05T08:34:20Z",
+                "open_issues": 0,
                 "owner": "gettalong",
                 "repo": "versadok",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -28,12 +33,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website and Spec(ification) - Text with Instructions (.texti) - Structured Documents in Text with Formatting Conventions - The Best of Markdown, Wikipedia Markup, LaTeX & Friends - All Together Now",
+                "homepage": null,
                 "id": 97221526,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2018-08-04T17:53:20Z",
+                "open_issues": 0,
                 "owner": "texti",
                 "repo": "texti.github.io",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "asciidoc",
+                  "commonmark",
+                  "html",
+                  "latex",
+                  "markdown",
+                  "markup",
+                  "tex",
+                  "text",
+                  "texti",
+                  "txt",
+                  "wikipedia"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -44,12 +66,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Carve markup resources, tools, and libraries",
+                "homepage": "https://markup-carve.github.io/carve/",
                 "id": 1238126820,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-27T13:56:05Z",
+                "open_issues": 0,
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "carve",
+                  "markup",
+                  "markup-language"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -71,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A one pager for emojis on Campfire and GitHub",
+            "homepage": "http://www.emoji-cheat-sheet.com",
             "id": 2592600,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-28T07:47:03Z",
+            "open_issues": 56,
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6322
+            "stars": 6322,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         },
@@ -89,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is now deprecated.  Please use MultiMarkdown-7 instead!",
+                "homepage": "https://github.com/fletcher/MultiMarkdown-7",
                 "id": 232071,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2023-08-12T11:08:05Z",
+                "open_issues": 4,
                 "owner": "fletcher",
                 "repo": "MultiMarkdown",
-                "stars": 1070
+                "stars": 1070,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -110,12 +153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Set of test documents to verify that MMD 4 is working properly",
+                    "homepage": null,
                     "id": 249622,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2016-11-02T01:50:25Z",
+                    "open_issues": 2,
                     "owner": "fletcher",
                     "repo": "MMD-Test-Suite",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:13:14.629Z"
                 }
@@ -135,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP parser for the Markdown Extended syntax",
+                "homepage": "http://aboutmde.org/",
                 "id": 51593005,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-02-12T15:39:40Z",
+                "open_issues": 0,
                 "owner": "piwi",
                 "repo": "markdown-extended",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -162,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)",
+            "homepage": null,
             "id": 53625913,
             "language": null,
+            "license": null,
             "last_commit": "2016-07-04T07:42:01Z",
+            "open_issues": 0,
             "owner": "manuscripts",
             "repo": "book-starter",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         }
@@ -184,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CommonMark spec, with reference implementations in C and JavaScript",
+            "homepage": "http://commonmark.org",
             "id": 22942790,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-27T19:15:35Z",
+            "open_issues": 129,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5137
+            "stars": 5137,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         }
@@ -206,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C",
+            "homepage": null,
             "id": 75244322,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-13T14:36:08Z",
+            "open_issues": 135,
             "owner": "github",
             "repo": "cmark-gfm",
-            "stars": 1125
+            "stars": 1125,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         }
@@ -228,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of vfmd in C++",
+            "homepage": null,
             "id": 16938012,
             "language": "C",
+            "license": null,
             "last_commit": "2014-06-23T15:25:10Z",
+            "open_issues": 0,
             "owner": "vfmd",
             "repo": "vfmd-src",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         }
@@ -252,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+                "homepage": "https://markdown-here.com",
                 "id": 4311796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-22T00:21:50Z",
+                "open_issues": 318,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60248
+                "stars": 60249,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -268,12 +346,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔖  The Ultimate Markdown Cheatsheet",
+                "homepage": "https://mahbub.ninja/blog/post/2021-04-09_The-Ultimate-Markdown-Cheat-Sheet-3d3976b31a0",
                 "id": 347274393,
                 "language": "Mermaid",
+                "license": "MIT",
                 "last_commit": "2025-07-12T15:09:57Z",
+                "open_issues": 5,
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 831
+                "stars": 831,
+                "topics": [
+                  "awesome",
+                  "cheetsheet",
+                  "commonmark",
+                  "gfm",
+                  "github",
+                  "markdown",
+                  "markdown-cheatsheet"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -291,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lessons to help guide new writers into Markdown!",
+                "homepage": "http://www.markdowntutorial.com",
                 "id": 10376685,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-29T13:25:05Z",
+                "open_issues": 9,
                 "owner": "gjtorikian",
                 "repo": "markdowntutorial.com",
-                "stars": 604
+                "stars": 604,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -320,12 +416,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown code block authoring tool",
+                "homepage": null,
                 "id": 740676029,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-23T12:38:09Z",
+                "open_issues": 2,
                 "owner": "szkiba",
                 "repo": "mdcode",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "documentation-testing",
+                  "markdown",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -343,12 +448,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js style checker and lint tool for Markdown/CommonMark files.",
+                "homepage": null,
                 "id": 32246828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:18:04Z",
+                "open_issues": 82,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6307
+                "stars": 6309,
+                "topics": [
+                  "commonmark",
+                  "lint",
+                  "markdown",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -359,12 +474,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown linting and style checking for Visual Studio Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint",
                 "id": 46678080,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T20:58:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:04:52Z",
+                "open_issues": 10,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "lint",
+                  "markdown",
+                  "visual-studio-code",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -375,12 +500,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CommonMark compliant Markdown formatter",
+                "homepage": "https://mdformat.rtfd.io",
                 "id": 278875517,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T17:52:33Z",
+                "open_issues": 62,
                 "owner": "hukkin",
                 "repo": "mdformat",
-                "stars": 814
+                "stars": 814,
+                "topics": [
+                  "cli",
+                  "codeformatter",
+                  "commonmark",
+                  "formatter",
+                  "markdown",
+                  "mdformat",
+                  "pre-commit",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -391,12 +530,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast Markdown linter written in Rust.",
+                "homepage": null,
                 "id": 904238381,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T15:11:36Z",
+                "open_issues": 8,
                 "owner": "akiomik",
                 "repo": "mado",
-                "stars": 382
+                "stars": 383,
+                "topics": [
+                  "github-actions",
+                  "linter",
+                  "markdown",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -407,12 +556,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Format markdown code blocks using your favorite tools",
+                "homepage": "https://mdsf.mhouge.dk/",
                 "id": 759463672,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-14T11:15:12Z",
+                "open_issues": 33,
                 "owner": "hougesen",
                 "repo": "mdsf",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "cli",
+                  "codeblocks",
+                  "codeformatter",
+                  "command-line",
+                  "documentation",
+                  "elixir",
+                  "formatter",
+                  "gleam",
+                  "go",
+                  "hacktoberfest",
+                  "json",
+                  "markdown",
+                  "md",
+                  "pretty-printer",
+                  "python",
+                  "rust",
+                  "typescript",
+                  "zig"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -423,12 +596,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-healing Markdown links — anchor links to a UUID so they survive refactors: repair moved links, robustify plain ones. No database, editor-agnostic.",
+                "homepage": null,
                 "id": 1297480499,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T00:14:26Z",
+                "open_issues": 3,
                 "owner": "txemi",
                 "repo": "darnlink",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cli",
+                  "documentation",
+                  "links",
+                  "markdown",
+                  "markdown-links",
+                  "pre-commit",
+                  "python",
+                  "self-healing",
+                  "uuid"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -439,12 +627,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find LLM-generated text patterns in markdown, prose, and code comments. Free CLI. 70+ EN/PL patterns. MIT.",
+                "homepage": "https://antydizajn.github.io/ai-work-voucher-250/",
                 "id": 1257187038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-03T00:34:30Z",
+                "open_issues": 0,
                 "owner": "antydizajn",
                 "repo": "ai-slop-detect",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai-content-detection",
+                  "ai-detection",
+                  "anti-ai",
+                  "chatgpt-detector",
+                  "em-dash",
+                  "linter",
+                  "markdown",
+                  "prose-linter",
+                  "python-cli",
+                  "writing-tools"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -462,12 +666,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Render Markdown to HTML on any website using a md tag",
+                "homepage": null,
                 "id": 494000316,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-09T19:41:26Z",
+                "open_issues": 2,
                 "owner": "MarketingPipeline",
                 "repo": "Markdown-Tag",
-                "stars": 462
+                "stars": 462,
+                "topics": [
+                  "commonmark",
+                  "custom-element",
+                  "frontend",
+                  "gfm",
+                  "github",
+                  "github-flavored-markdown",
+                  "github-markdown",
+                  "html",
+                  "html-converter",
+                  "javascript",
+                  "markdown",
+                  "markdown-converter",
+                  "markdown-flavors",
+                  "markdown-parser",
+                  "markdown-tag",
+                  "markdown-to-html",
+                  "md",
+                  "showdown",
+                  "web-component",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -485,12 +715,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Beautiful static documentation for your API",
+                "homepage": "https://slatedocs.github.io/slate",
                 "id": 12820537,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-01T05:54:12Z",
+                "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36038
+                "stars": 36037,
+                "topics": [
+                  "api",
+                  "api-documentation",
+                  "slate",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -501,12 +741,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shins development continues at",
+                "homepage": "https://github.com/Mermade/reslate",
                 "id": 70063425,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-31T18:22:18Z",
+                "open_issues": 0,
                 "owner": "Mermade",
                 "repo": "shins",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "api",
+                  "documentation",
+                  "openapi",
+                  "slate",
+                  "static-site-generator",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -524,12 +776,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " :page_facing_up: Markdown to PDF converter",
+                "homepage": "https://npmjs.org/package/markdown-pdf",
                 "id": 10127525,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-19T06:34:40Z",
+                "open_issues": 92,
                 "owner": "alanshaw",
                 "repo": "markdown-pdf",
-                "stars": 2876
+                "stars": 2876,
+                "topics": [
+                  "converter",
+                  "markdown",
+                  "md",
+                  "pdf",
+                  "pdf-generation",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -540,12 +804,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resume renderer for Claude Code.",
+                "homepage": "https://resumx.dev",
                 "id": 1142000262,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-09T20:52:38Z",
+                "open_issues": 6,
                 "owner": "resumx",
                 "repo": "resumx",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "cv",
+                  "cv-generator",
+                  "markdown",
+                  "resume",
+                  "resume-generator",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -556,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown to PDF converter with beautiful templates.",
+                "homepage": null,
                 "id": 1169460052,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-05T16:55:20Z",
+                "open_issues": 0,
                 "owner": "brendandebeasi",
                 "repo": "em-dee-pdf",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -579,12 +860,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.",
+                "homepage": "https://jonschlinkert.github.io/remarkable/demo/",
                 "id": 23550956,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-17T12:20:51Z",
+                "open_issues": 133,
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5844
+                "stars": 5844,
+                "topics": [
+                  "commonmark",
+                  "compile",
+                  "docusaurus",
+                  "gfm",
+                  "javascript",
+                  "jonschlinkert",
+                  "markdown",
+                  "markdown-it",
+                  "markdown-parser",
+                  "md",
+                  "node",
+                  "nodejs",
+                  "parse",
+                  "parser",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -595,12 +897,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown table-of-contents generator",
+                "homepage": null,
                 "id": 193946347,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T05:09:07Z",
+                "open_issues": 1,
                 "owner": "kubernetes-sigs",
                 "repo": "mdtoc",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "k8s-sig-release"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -618,12 +927,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preprocessor for markdown files",
+                "homepage": null,
                 "id": 23546920,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-18T06:56:43Z",
+                "open_issues": 1,
                 "owner": "commenthol",
                 "repo": "markedpp",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "autonumber",
+                  "markdown",
+                  "preprocessor",
+                  "table-of-contents",
+                  "toc"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -641,12 +961,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown to Notion conversion tool 🔄",
+                "homepage": "https://www.mk-notes.io/",
                 "id": 924239110,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-23T17:06:28Z",
+                "open_issues": 9,
                 "owner": "Myastr0",
                 "repo": "mk-notes",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "cli",
+                  "knowledge",
+                  "markdown",
+                  "markdown-to-notion",
+                  "mk-notes",
+                  "mk-notes-cli",
+                  "notion",
+                  "notion-api"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -670,12 +1004,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ruby gem to liberate content from Microsoft Word documents",
+                "homepage": "https://word2md.com",
                 "id": 18018625,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-30T20:33:42Z",
+                "open_issues": 13,
                 "owner": "benbalter",
                 "repo": "word-to-markdown",
-                "stars": 1550
+                "stars": 1550,
+                "topics": [
+                  "converter",
+                  "libreoffice",
+                  "markdown",
+                  "microsoft-word",
+                  "ruby",
+                  "word"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -693,12 +1039,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-fidelity PDF/DOCX/PPTX to Markdown conversion with multi-stage QC, image extraction, and Claude Code integration.",
+                "homepage": null,
                 "id": 1164221215,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-01T00:25:51Z",
+                "open_issues": 0,
                 "owner": "neoncapy",
                 "repo": "doc2md",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "academic-papers",
+                  "anthropic",
+                  "claude-code",
+                  "document-conversion",
+                  "docx-to-markdown",
+                  "image-extraction",
+                  "llm-tools",
+                  "markdown",
+                  "mineru",
+                  "ocr",
+                  "pandoc",
+                  "pdf-to-markdown",
+                  "pdfplumber",
+                  "pptx-to-markdown",
+                  "pymupdf",
+                  "python",
+                  "quality-control",
+                  "scientific-documents"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -716,12 +1086,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert your notes to Markdown",
+                "homepage": "https://marph91.github.io/jimmy/",
                 "id": 780390631,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T08:53:33Z",
+                "open_issues": 14,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "bear",
+                  "cherrytree",
+                  "google-keep",
+                  "joplin",
+                  "markdown",
+                  "markdown-converter",
+                  "microsoft-office",
+                  "notion",
+                  "obsidian",
+                  "onenote",
+                  "pandoc",
+                  "signal",
+                  "simplenote",
+                  "standard-notes",
+                  "standardnotes",
+                  "synology",
+                  "telegram",
+                  "textbundle",
+                  "tiddlywiki",
+                  "zoho"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -739,12 +1135,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert your LinkedIn data export to clean Markdown + PDF resume. Zero-dep Python CLI.",
+                "homepage": "https://linkedin2md.daza.ar",
                 "id": 1138316448,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-12T00:19:08Z",
+                "open_issues": 0,
                 "owner": "juanmanueldaza",
                 "repo": "linkedin2md",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "career-tools",
+                  "linkedin",
+                  "linkedin-export",
+                  "llm",
+                  "markdown",
+                  "pdf",
+                  "python-cli",
+                  "resume"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -762,12 +1172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby gem to convert html into markdown",
+                "homepage": null,
                 "id": 250713,
                 "language": "Ruby",
+                "license": "WTFPL",
                 "last_commit": "2026-01-20T13:18:59Z",
+                "open_issues": 15,
                 "owner": "xijo",
                 "repo": "reverse_markdown",
-                "stars": 681
+                "stars": 681,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -778,12 +1193,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert HTML to Markdown. Sometimes you just need to go the other way.",
+                "homepage": null,
                 "id": 15198098,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-02-10T17:11:22Z",
+                "open_issues": 0,
                 "owner": "soffes",
                 "repo": "unmarkdown",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "html",
+                  "markdown",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -794,12 +1218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple and flexible html to markdown converter",
+                "homepage": null,
                 "id": 3855206,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-09-22T21:39:22Z",
+                "open_issues": 7,
                 "owner": "29decibel",
                 "repo": "html2markdown",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -810,12 +1239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ruby gem from converting basic html to markdown",
+                "homepage": null,
                 "id": 3758262,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-19T07:13:29Z",
+                "open_issues": 5,
                 "owner": "pmorton",
                 "repo": "html2md",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -826,12 +1260,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A HTML to Markdown converter.",
+                "homepage": "Upmark has the skills to convert your HTML to Markdown.",
                 "id": 2426626,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-09-02T05:53:21Z",
+                "open_issues": 2,
                 "owner": "conversation",
                 "repo": "upmark",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "converter",
+                  "html",
+                  "markdown",
+                  "peg",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -842,12 +1287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML to Markdown converter",
+                "homepage": null,
                 "id": 234423,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2012-11-27T15:53:02Z",
+                "open_issues": 0,
                 "owner": "mislav",
                 "repo": "remark",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -858,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML to markdown converter",
+                "homepage": null,
                 "id": 7546914,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2013-01-10T19:15:15Z",
+                "open_issues": 0,
                 "owner": "jcheatham",
                 "repo": "hypertextmarkdown",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -874,12 +1329,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛏 An HTML to Markdown converter written in JavaScript",
+                "homepage": "https://mixmark-io.github.io/turndown",
                 "id": 2630230,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-23T22:17:20Z",
+                "open_issues": 150,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11407
+                "stars": 11408,
+                "topics": [
+                  "browser",
+                  "commonmark",
+                  "gfm",
+                  "html",
+                  "html-to-markdown",
+                  "javascript",
+                  "markdown",
+                  "node"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -890,12 +1359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 10360525,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-05-30T03:42:34Z",
+                "open_issues": 0,
                 "owner": "alexgorbatchev",
                 "repo": "html2markdown",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -906,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embeddable 'Copy as Markdown' widget for any website. One script tag. Let readers copy pages as clean markdown for AI tools.",
+                "homepage": "https://zcag.github.io/copymd/",
                 "id": 1179437947,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T03:00:23Z",
+                "open_issues": 0,
                 "owner": "zcag",
                 "repo": "copymd",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -927,12 +1406,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MarkItDown: retro-convert rich text to Markdown",
+                    "homepage": null,
                     "id": 9213553,
                     "language": "XML",
+                    "license": null,
                     "last_commit": "2013-04-04T11:40:15Z",
+                    "open_issues": 5,
                     "owner": "bambax",
                     "repo": "markitdown.medusis.com",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:13:14.629Z"
                 }
@@ -945,12 +1429,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert any webpage to clean Markdown and save it to your Obsidian vault, a file, or the clipboard. Lossless code, tables, math, images.",
+                "homepage": null,
                 "id": 1241727298,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-11T09:36:32Z",
+                "open_issues": 0,
                 "owner": "Tigrandza",
                 "repo": "markdown-web-clipper",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "chrome-extension",
+                  "html-to-markdown",
+                  "local-first",
+                  "markdown",
+                  "markdown-converter",
+                  "note-taking",
+                  "obsidian",
+                  "web-clipper"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -968,12 +1466,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate markdown documentation from jsdoc-annotated javascript",
+                "homepage": null,
                 "id": 19831645,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-03T14:58:31Z",
+                "open_issues": 26,
                 "owner": "jsdoc2md",
                 "repo": "jsdoc-to-markdown",
-                "stars": 1759
+                "stars": 1759,
+                "topics": [
+                  "api-documentation",
+                  "documentation",
+                  "documentation-generator",
+                  "documentation-tool",
+                  "generator",
+                  "jsdoc",
+                  "jsdoc-to-markdown",
+                  "markdown",
+                  "readme"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -984,12 +1497,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown",
+                "homepage": "https://mermade.github.io/reslate",
                 "id": 70106620,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-04T23:50:09Z",
+                "open_issues": 89,
                 "owner": "Mermade",
                 "repo": "widdershins",
-                "stars": 1580
+                "stars": 1580,
+                "topics": [
+                  "api",
+                  "asyncapi",
+                  "documentation",
+                  "openapi",
+                  "openapi3",
+                  "semoasa",
+                  "slate",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -1000,12 +1527,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Doxygen XML to Markdown converter",
+                "homepage": "https://0state.com/moxygen",
                 "id": 73318407,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:51Z",
+                "open_issues": 13,
                 "owner": "sourcey",
                 "repo": "moxygen",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "api-docs",
+                  "cpp",
+                  "documentation-generator",
+                  "doxygen",
+                  "doxygen-xml",
+                  "java",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -1016,12 +1556,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.",
+                "homepage": null,
                 "id": 130480474,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-30T21:19:23Z",
+                "open_issues": 1,
                 "owner": "albinotonnina",
                 "repo": "mmarkdown",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "generator",
+                  "javascript",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -1032,12 +1581,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A raml2html theme for rendering RAML to Markdown",
+                "homepage": null,
                 "id": 81663702,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T10:25:19Z",
+                "open_issues": 2,
                 "owner": "raml2html",
                 "repo": "markdown-theme",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "raml-document",
+                  "raml2html",
+                  "raml2html-theme"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -1055,12 +1613,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":pushpin: A JSON to Markdown converter.",
+                "homepage": "http://ionicabizau.net/blog/27-how-to-convert-json-to-markdown-using-json2md",
                 "id": 45386983,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-11T10:16:28Z",
+                "open_issues": 8,
                 "owner": "IonicaBizau",
                 "repo": "json2md",
-                "stars": 653
+                "stars": 653,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             },
@@ -1071,12 +1636,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible TypeScript markdown generator that takes JSON and creates a markdown document",
+                "homepage": "https://kgar.github.io/ts-markdown/",
                 "id": 513217300,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-28T20:40:33Z",
+                "open_issues": 6,
                 "owner": "kgar",
                 "repo": "ts-markdown",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "data-conversion",
+                  "data-converter",
+                  "extensible",
+                  "json",
+                  "json-to-markdown",
+                  "markdown",
+                  "markdown-writer",
+                  "open-source",
+                  "test-driven-development",
+                  "typescript",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -1103,12 +1685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI for book generation, building, and publishing to softcover.io",
+                "homepage": "https://www.softcover.io",
                 "id": 5974018,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-24T00:56:21Z",
+                "open_issues": 3,
                 "owner": "softcover",
                 "repo": "softcover",
-                "stars": 447
+                "stars": 447,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -1126,12 +1713,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source frontend for GitBook doc sites",
+                "homepage": "https://www.gitbook.com",
                 "id": 18280236,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:39:15Z",
+                "open_issues": 102,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29017
+                "stars": 29017,
+                "topics": [
+                  "documentation",
+                  "git",
+                  "gitbook",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -1149,12 +1746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static site framework for online books.",
+                "homepage": null,
                 "id": 20817311,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2017-01-13T20:53:33Z",
+                "open_issues": 2,
                 "owner": "bryanbraun",
                 "repo": "franklin",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
             }
@@ -1173,12 +1775,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DE-centralized - MARKdown - for US:  Persistent memory for AI agents, shared knowledge for teams, and a second brain for you. Built on the Mark Protocol.",
+            "homepage": "http://www.demarkus.io/",
             "id": 1158150476,
             "language": "Go",
-            "last_commit": "2026-08-28T20:26:14Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:56:04Z",
+            "open_issues": 6,
             "owner": "latebit-io",
             "repo": "demarkus",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agent-memory-system",
+              "agents",
+              "developer-tools",
+              "distributed",
+              "distributed-knowledge",
+              "knowledge-base",
+              "knowledge-graph",
+              "markdown",
+              "protocol",
+              "soul"
+            ]
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         },
@@ -1189,12 +1807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTTP protocol standard designed for AI Agents, enabling machines to browse the web more intelligently.",
+            "homepage": null,
             "id": 1197338555,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-03T04:58:21Z",
+            "open_issues": 0,
             "owner": "RaysunKR",
             "repo": "MarkWay",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
         }
@@ -1203,15 +1826,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:14.629Z",
+    "last_updated": "2026-08-29T04:28:00.986Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
+      "homepage": null,
       "id": 34983527,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-31T11:44:52Z",
+      "open_issues": 38,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1912
+      "stars": 1912,
+      "topics": []
     },
     "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
     "enhanced_repository": "enhansome/enhansome-markdown",
