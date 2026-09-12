@@ -251,7 +251,7 @@
             "open_issues": 130,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5142,
+            "stars": 5141,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -334,7 +334,7 @@
                 "open_issues": 318,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60244,
+                "stars": 60241,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -453,11 +453,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T03:48:44Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-12T12:41:19Z",
+                "open_issues": 80,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6335,
+                "stars": 6337,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -479,11 +479,11 @@
                 "id": 46678080,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T04:42:35Z",
+                "last_commit": "2026-09-12T05:22:54Z",
                 "open_issues": 11,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1282,
+                "stars": 1284,
                 "topics": [
                   "lint",
                   "markdown",
@@ -535,8 +535,8 @@
                 "id": 904238381,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T06:32:42Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-12T03:33:29Z",
+                "open_issues": 40,
                 "owner": "akiomik",
                 "repo": "mado",
                 "stars": 406,
@@ -785,7 +785,7 @@
                 "open_issues": 92,
                 "owner": "alanshaw",
                 "repo": "markdown-pdf",
-                "stars": 2875,
+                "stars": 2876,
                 "topics": [
                   "converter",
                   "markdown",
@@ -1338,7 +1338,7 @@
                 "open_issues": 144,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11431,
+                "stars": 11434,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1718,11 +1718,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T10:43:35Z",
+                "last_commit": "2026-09-11T19:54:16Z",
                 "open_issues": 105,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29026,
+                "stars": 29027,
                 "topics": [
                   "documentation",
                   "git",
@@ -1780,7 +1780,7 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T00:11:40Z",
+            "last_commit": "2026-09-12T00:52:21Z",
             "open_issues": 3,
             "owner": "latebit-io",
             "repo": "demarkus",
@@ -1826,7 +1826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:34:30.356Z",
+    "last_updated": "2026-09-12T13:42:00.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
