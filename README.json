@@ -113,7 +113,7 @@
             "open_issues": 56,
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6319,
+            "stars": 6320,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -334,7 +334,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60249,
+                "stars": 60250,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -391,7 +391,7 @@
                 "open_issues": 9,
                 "owner": "gjtorikian",
                 "repo": "markdowntutorial.com",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -457,7 +457,7 @@
                 "open_issues": 81,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6343,
+                "stars": 6345,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -509,7 +509,7 @@
                 "open_issues": 65,
                 "owner": "hukkin",
                 "repo": "mdformat",
-                "stars": 820,
+                "stars": 822,
                 "topics": [
                   "cli",
                   "codeformatter",
@@ -601,8 +601,8 @@
                 "id": 1297480499,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T15:50:46Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-17T13:09:26Z",
+                "open_issues": 3,
                 "owner": "txemi",
                 "repo": "darnlink",
                 "stars": 18,
@@ -1009,8 +1009,8 @@
                 "id": 18018625,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-06T00:54:29Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-16T19:35:55Z",
+                "open_issues": 11,
                 "owner": "benbalter",
                 "repo": "word-to-markdown",
                 "stars": 1551,
@@ -1338,7 +1338,7 @@
                 "open_issues": 144,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11439,
+                "stars": 11438,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1533,7 +1533,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-03T18:09:19Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "sourcey",
                 "repo": "moxygen",
                 "stars": 277,
@@ -1718,11 +1718,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T13:35:53Z",
+                "last_commit": "2026-09-17T15:13:12Z",
                 "open_issues": 105,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29027,
+                "stars": 29029,
                 "topics": [
                   "documentation",
                   "git",
@@ -1780,7 +1780,7 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T11:56:44Z",
+            "last_commit": "2026-09-17T14:10:12Z",
             "open_issues": 3,
             "owner": "latebit-io",
             "repo": "demarkus",
@@ -1826,7 +1826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:08:16.243Z",
+    "last_updated": "2026-09-17T15:15:12.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
