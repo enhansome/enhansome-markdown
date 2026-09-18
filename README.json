@@ -251,7 +251,7 @@
             "open_issues": 130,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5143,
+            "stars": 5144,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -334,7 +334,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60250,
+                "stars": 60252,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -453,11 +453,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T06:38:47Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-18T12:46:17Z",
+                "open_issues": 83,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6345,
+                "stars": 6348,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -483,7 +483,7 @@
                 "open_issues": 11,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1288,
+                "stars": 1291,
                 "topics": [
                   "lint",
                   "markdown",
@@ -539,7 +539,7 @@
                 "open_issues": 40,
                 "owner": "akiomik",
                 "repo": "mado",
-                "stars": 410,
+                "stars": 409,
                 "topics": [
                   "github-actions",
                   "linter",
@@ -565,7 +565,7 @@
                 "open_issues": 41,
                 "owner": "hougesen",
                 "repo": "mdsf",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "cli",
                   "codeblocks",
@@ -869,7 +869,7 @@
                 "open_issues": 133,
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5842,
+                "stars": 5843,
                 "topics": [
                   "commonmark",
                   "compile",
@@ -1338,7 +1338,7 @@
                 "open_issues": 144,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11438,
+                "stars": 11439,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1718,11 +1718,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T15:13:12Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-18T14:35:21Z",
+                "open_issues": 102,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29029,
+                "stars": 29032,
                 "topics": [
                   "documentation",
                   "git",
@@ -1780,7 +1780,7 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T14:10:12Z",
+            "last_commit": "2026-09-18T01:12:36Z",
             "open_issues": 3,
             "owner": "latebit-io",
             "repo": "demarkus",
@@ -1826,7 +1826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:15:12.441Z",
+    "last_updated": "2026-09-18T14:36:38.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
