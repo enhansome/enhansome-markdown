@@ -71,7 +71,7 @@
                 "id": 1238126820,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-25T14:23:31Z",
+                "last_commit": "2026-09-28T21:30:25Z",
                 "open_issues": 0,
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
@@ -85,9 +85,48 @@
                 ]
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GEML Specification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiable, and versioned for machines.  GEML is plain text — organized by one typed block for everything, remembered by a .gemlhistory sidecar.",
+                "homepage": "https://geml-spec.github.io/geml/",
+                "id": 1272251780,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-29T12:11:33Z",
+                "open_issues": 2,
+                "owner": "geml-spec",
+                "repo": "geml",
+                "stars": 27,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "call-graph",
+                  "claude-code",
+                  "claude-skills",
+                  "cli",
+                  "documentation",
+                  "dsh-plugin",
+                  "gemini-cli-extension",
+                  "geml",
+                  "llm",
+                  "markdown",
+                  "markup-language",
+                  "mcp",
+                  "mcp-server",
+                  "obsidian",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-29T16:36:36.173Z"
             }
           ],
-          "description": "Djot (web: https://djot.net, github: https://github.com/jgm/djot) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.\nVersadoc (github: https://github.com/gettalong/versadok) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.\nTexti (Text w/ Instructions) (github: https://github.com/texti) - by Gerald Bauer (Austria); a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more.\nCarve (web: https://markup-carve.github.io/carve/, github: https://github.com/markup-carve/carve) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - , , and - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.\nYes, you can! Add your improved beyond markdown light markup syntax / language here.",
+          "description": "Djot (web: https://djot.net, github: https://github.com/jgm/djot) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.\nVersadoc (github: https://github.com/gettalong/versadok) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.\nTexti (Text w/ Instructions) (github: https://github.com/texti) - by Gerald Bauer (Austria); a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more.\nCarve (web: https://markup-carve.github.io/carve/, github: https://github.com/markup-carve/carve) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - , , and - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.\nGEML (General Expressive Markup Language) (web: https://geml-spec.github.io/geml/, github: https://github.com/geml-spec/geml) - by the geml-spec project; a plain-text markup language that keeps Markdown's prose and replaces its many special-case blocks with one typed block, , for code, tables, math, diagrams, data, notes and embeds. Every block is addressable by , references are checked at build time, and a sidecar keeps block-level history. Its reference parser also reads plain Markdown files directly.\nYes, you can! Add your improved beyond markdown light markup syntax / language here.",
           "node_type": "group",
           "title": "Beyond Markdown - Let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)"
         }
@@ -278,7 +317,7 @@
             "open_issues": 134,
             "owner": "github",
             "repo": "cmark-gfm",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -334,7 +373,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60259,
+                "stars": 60260,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -453,11 +492,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T02:17:07Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-29T03:39:11Z",
+                "open_issues": 83,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6361,
+                "stars": 6362,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -483,7 +522,7 @@
                 "open_issues": 12,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1292,
+                "stars": 1293,
                 "topics": [
                   "lint",
                   "markdown",
@@ -535,8 +574,8 @@
                 "id": 904238381,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T14:28:32Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-29T07:24:19Z",
+                "open_issues": 43,
                 "owner": "akiomik",
                 "repo": "mado",
                 "stars": 413,
@@ -869,7 +908,7 @@
                 "open_issues": 133,
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5844,
+                "stars": 5845,
                 "topics": [
                   "commonmark",
                   "compile",
@@ -1338,7 +1377,7 @@
                 "open_issues": 144,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11451,
+                "stars": 11450,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1434,7 +1473,7 @@
                 "id": 1241727298,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-11T09:36:32Z",
+                "last_commit": "2026-09-28T20:22:02Z",
                 "open_issues": 0,
                 "owner": "Tigrandza",
                 "repo": "markdown-web-clipper",
@@ -1718,11 +1757,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T15:44:05Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-29T16:16:41Z",
+                "open_issues": 107,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29047,
+                "stars": 29049,
                 "topics": [
                   "documentation",
                   "git",
@@ -1780,8 +1819,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T18:13:22Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-29T16:06:15Z",
+            "open_issues": 6,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 15,
@@ -1826,7 +1865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:14:16.914Z",
+    "last_updated": "2026-09-29T16:36:36.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1834,14 +1873,14 @@
       "id": 34983527,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-31T11:44:52Z",
+      "last_commit": "2026-09-29T09:46:47Z",
       "open_issues": 51,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1922,
+      "stars": 1924,
       "topics": []
     },
-    "original_repository_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
+    "original_repository_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
     "enhanced_repository": "enhansome/enhansome-markdown",
     "enhanced_repository_description": null,
     "title": "Awesome Markdown (& Beyond) with stars"
