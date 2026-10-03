@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Versadoc Syntax Page",
-              "description": null,
+              "description": "gettalong/versadok",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
                 "id": 1238126820,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T14:05:09Z",
+                "last_commit": "2026-10-02T20:35:03Z",
                 "open_issues": 1,
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
@@ -89,7 +89,7 @@
             {
               "node_type": "item",
               "title": "GEML Specification",
-              "description": null,
+              "description": "geml-spec/geml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -188,7 +188,7 @@
                 {
                   "node_type": "item",
                   "title": "Test Suite :octocat:",
-                  "description": null,
+                  "description": "fletcher/MMD-Test-Suite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -250,7 +250,7 @@
         {
           "node_type": "item",
           "title": "Manuscripts Book Starter Kit (github:",
-          "description": ")",
+          "description": "manuscripts/book-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +360,7 @@
             {
               "node_type": "item",
               "title": "Markdown Cheatsheet :octocat:",
-              "description": null,
+              "description": "adam-p/markdown-here",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -373,7 +373,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60263,
+                "stars": 60262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -381,7 +381,7 @@
             {
               "node_type": "item",
               "title": "The Ultimate Markdown Cheat Sheet",
-              "description": null,
+              "description": "lifeparticle/Markdown-Cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -394,7 +394,7 @@
                 "open_issues": 5,
                 "owner": "lifeparticle",
                 "repo": "Markdown-Cheatsheet",
-                "stars": 840,
+                "stars": 838,
                 "topics": [
                   "awesome",
                   "cheetsheet",
@@ -492,8 +492,8 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T05:11:30Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-03T04:46:46Z",
+                "open_issues": 83,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
                 "stars": 6364,
@@ -895,7 +895,7 @@
             {
               "node_type": "item",
               "title": "Generate a markdown table of contents (TOC) with remarkable",
-              "description": "(github: )",
+              "description": "jonschlinkert/remarkable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1763,11 +1763,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:02:00Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-02T21:03:08Z",
+                "open_issues": 104,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29057,
+                "stars": 29058,
                 "topics": [
                   "documentation",
                   "git",
@@ -1825,8 +1825,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T13:56:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T23:50:33Z",
+            "open_issues": 4,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 16,
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:21:02.793Z",
+    "last_updated": "2026-10-03T04:54:18.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1883,7 +1883,7 @@
       "open_issues": 53,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1924,
+      "stars": 1922,
       "topics": []
     },
     "original_repository_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
