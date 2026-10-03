@@ -98,7 +98,7 @@
                 "id": 1272251780,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:44:21Z",
+                "last_commit": "2026-10-03T14:46:10Z",
                 "open_issues": 4,
                 "owner": "geml-spec",
                 "repo": "geml",
@@ -290,7 +290,7 @@
             "open_issues": 132,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5148,
+            "stars": 5149,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -492,11 +492,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:46:46Z",
+                "last_commit": "2026-10-03T05:49:43Z",
                 "open_issues": 83,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6364,
+                "stars": 6367,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -1825,7 +1825,7 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T23:50:33Z",
+            "last_commit": "2026-10-03T14:17:41Z",
             "open_issues": 4,
             "owner": "latebit-io",
             "repo": "demarkus",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:18.853Z",
+    "last_updated": "2026-10-03T14:49:27.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",

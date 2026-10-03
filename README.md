@@ -1,4 +1,4 @@
-Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) ⭐ 2,273 | 🐛 78 | 📅 2026-08-06
+Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) ⭐ 2,273 | 🐛 79 | 📅 2026-08-06
 
 # Awesome Markdown (& Beyond) with stars
 
@@ -22,7 +22,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ### Beyond Markdown - Let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
 
-**Djot** (web: <https://djot.net>, github: <https://github.com/jgm/djot> ⭐ 2,047 | 🐛 118 | 🌐 Emacs Lisp | 📅 2026-07-01) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.
+**Djot** (web: <https://djot.net>, github: <https://github.com/jgm/djot> ⭐ 2,046 | 🐛 118 | 🌐 Emacs Lisp | 📅 2026-07-01) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.
 
 * [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) by John MacFarlane
 * [Djot Syntax Page](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html)
@@ -40,9 +40,9 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 * [Awesome Carve](https://github.com/markup-carve/awesome-carve) ⭐ 9 | 🐛 1 | 📅 2026-10-02 - curated list of Carve resources, tools, and libraries
 * [Carve Playground & Docs](https://markup-carve.github.io/carve/)
 
-**GEML (General Expressive Markup Language)** (web: <https://geml-spec.github.io/geml/>, github: <https://github.com/geml-spec/geml> ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02) - by the geml-spec project; a plain-text markup language that keeps Markdown's prose and replaces its many special-case blocks with one typed block, `=== type {attrs}`, for code, tables, math, diagrams, data, notes and embeds. Every block is addressable by `#id`, references are checked at build time, and a `.gemlhistory` sidecar keeps block-level history. Its reference parser also reads plain Markdown files directly.
+**GEML (General Expressive Markup Language)** (web: <https://geml-spec.github.io/geml/>, github: <https://github.com/geml-spec/geml> ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-03) - by the geml-spec project; a plain-text markup language that keeps Markdown's prose and replaces its many special-case blocks with one typed block, `=== type {attrs}`, for code, tables, math, diagrams, data, notes and embeds. Every block is addressable by `#id`, references are checked at build time, and a `.gemlhistory` sidecar keeps block-level history. Its reference parser also reads plain Markdown files directly.
 
-* [GEML Specification](https://github.com/geml-spec/geml/blob/main/spec/GEML-spec.md) ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02
+* [GEML Specification](https://github.com/geml-spec/geml/blob/main/spec/GEML-spec.md) ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-03
 * [GEML Playground](https://geml-spec.github.io/geml/playground/) - edit on the left, rendered on the right, with the build verdict live
 
 Yes, you can!  Add your improved beyond markdown light markup syntax / language here.
@@ -190,7 +190,7 @@ and contents.yml for table of contents and file structure
 **CommonMark**
 (web: [`commonmark.org`](http://commonmark.org))
 
-* Code (github: [`jgm/CommonMark`](https://github.com/jgm/CommonMark) ⭐ 5,148 | 🐛 132 | 🌐 Python | 📅 2026-04-27) - spec and reference code in JavaScript and C
+* Code (github: [`jgm/CommonMark`](https://github.com/jgm/CommonMark) ⭐ 5,149 | 🐛 132 | 🌐 Python | 📅 2026-04-27) - spec and reference code in JavaScript and C
 * Spec (web: [`spec.commonmark.org`](http://spec.commonmark.org)) - Edited by John MacFarlane
 * Dingus (web: [`spec.commonmark.org/dingus`](http://spec.commonmark.org/dingus)) - try CommonMark in your browser
 * Talk (web: [`talk.commonmark.org`](http://talk.commonmark.org))
@@ -255,7 +255,7 @@ Character encoding
 
 **Pandoc**
 (web: [`pandoc.org`](http://pandoc.org),
-github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 46,474 | 🐛 1,053 | 🌐 Haskell | 📅 2026-10-03) -
+github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 46,480 | 🐛 1,053 | 🌐 Haskell | 📅 2026-10-03) -
 a universal document converter (in Haskell)
 
 **kramdown**
@@ -272,12 +272,12 @@ markdown library & command line tool (in Ruby)
 <a name="marked"></a>
 
 **marked**
-(web: [`marked.js.org`](https://marked.js.org), github: [marked :octocat:](https://github.com/markedjs/marked) ⭐ 37,220 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-02) a markdown parser and compiler. Built for speed. (In Javascript)
+(web: [`marked.js.org`](https://marked.js.org), github: [marked :octocat:](https://github.com/markedjs/marked) ⭐ 37,221 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-02) a markdown parser and compiler. Built for speed. (In Javascript)
 
 <a name="markdown-it"></a>
 
 **markdown-it**
-(web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it) ⭐ 21,955 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-12) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
+(web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it) ⭐ 21,956 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-12) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
 Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it-plugin).
 
 **concat-md**
@@ -295,7 +295,7 @@ Node.js. Features include drop-in editor component, TypeScript support, and lazy
 Demo](https://deftio.github.io/quikdown/examples/qde/))
 
 **mq**
-(web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq) ⭐ 1,042 | 🐛 13 | 🌐 Rust | 📅 2026-10-03) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
+(web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq) ⭐ 1,043 | 🐛 13 | 🌐 Rust | 📅 2026-10-03) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
 
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx) ⭐ 2,395 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-15, [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
@@ -311,7 +311,7 @@ to be done
 
 ### Markdown Lint / Style Rule Checker
 
-* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,364 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-03 - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
+* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,367 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-03 - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 * [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) ⭐ 1,293 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-12 - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
 * [mdformat](https://github.com/executablebooks/mdformat) ⭐ 826 | 🐛 69 | 🌐 Python | 📅 2026-09-28 - CommonMark compliant Markdown formatter
 * [mado](https://github.com/akiomik/mado) ⭐ 413 | 🐛 45 | 🌐 Rust | 📅 2026-10-02 - A fast Markdown linter written in Rust. GitHub Actions are supported.
@@ -370,9 +370,9 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 * Templates (github: [`slideshow-templates`](https://github.com/slideshow-templates))
 
-**Slidev** (github: [`slidev`](http://github.com/slidevjs/slidev) ⭐ 48,911 | 🐛 217 | 🌐 TypeScript | 📅 2026-10-02) - Slidev allows you to create slideshows from a markdown file. You can include HTML and Vue components in the markdown.
+**Slidev** (github: [`slidev`](http://github.com/slidevjs/slidev) ⭐ 48,913 | 🐛 218 | 🌐 TypeScript | 📅 2026-10-02) - Slidev allows you to create slideshows from a markdown file. You can include HTML and Vue components in the markdown.
 
-**Markpress** (github: [`markpress`](https://github.com/gamell/markpress) ⭐ 76 | 🐛 5 | 🌐 Less | 📅 2026-09-06) - A command line tool and node package to convert markdown files into self-contained [impressjs](https://github.com/impress/impress.js/) ⭐ 38,158 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23 html presentations. [Example](https://gamell.github.io/markpress)
+**Markpress** (github: [`markpress`](https://github.com/gamell/markpress) ⭐ 76 | 🐛 5 | 🌐 Less | 📅 2026-09-06) - A command line tool and node package to convert markdown files into self-contained [impressjs](https://github.com/impress/impress.js/) ⭐ 38,157 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23 html presentations. [Example](https://gamell.github.io/markpress)
 
 **nodePPT** (github: [`nodePPT`](https://github.com/ksky521/nodePPT) ⚠️ Archived) - A web presentation tool supporting markdown based on GFM.
 
@@ -510,7 +510,7 @@ JavaScript / Node.js
 
 ## Protocol
 
-* [demarkus](https://github.com/latebit-io/demarkus) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-10-02 - De-centralized markup for us: a markdown protocol, server, browser, and tools
+* [demarkus](https://github.com/latebit-io/demarkus) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-10-03 - De-centralized markup for us: a markdown protocol, server, browser, and tools
 * [MarkWay](https://github.com/RaysunKR/MarkWay) ⭐ 2 | 🐛 0 | 📅 2026-06-03 - An HTTP protocol standard designed for AI Agents, enabling machines to browse the web more intelligently.
 
 ## Articles
