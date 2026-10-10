@@ -71,7 +71,7 @@
                 "id": 1238126820,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-04T22:50:48Z",
+                "last_commit": "2026-10-09T20:04:24Z",
                 "open_issues": 0,
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
@@ -102,7 +102,7 @@
                 "open_issues": 2,
                 "owner": "geml-spec",
                 "repo": "geml",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -290,7 +290,7 @@
             "open_issues": 134,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5152,
+            "stars": 5153,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -373,7 +373,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60263,
+                "stars": 60262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -492,11 +492,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T03:43:41Z",
+                "last_commit": "2026-10-10T06:20:44Z",
                 "open_issues": 85,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6374,
+                "stars": 6375,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -604,7 +604,7 @@
                 "open_issues": 41,
                 "owner": "hougesen",
                 "repo": "mdsf",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "cli",
                   "codeblocks",
@@ -640,7 +640,7 @@
                 "id": 1297480499,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T16:18:56Z",
+                "last_commit": "2026-10-09T17:17:19Z",
                 "open_issues": 3,
                 "owner": "txemi",
                 "repo": "darnlink",
@@ -763,7 +763,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36023,
+                "stars": 36019,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -824,7 +824,7 @@
                 "open_issues": 91,
                 "owner": "alanshaw",
                 "repo": "markdown-pdf",
-                "stars": 2877,
+                "stars": 2876,
                 "topics": [
                   "converter",
                   "markdown",
@@ -1137,7 +1137,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T16:00:41Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "marph91",
                 "repo": "jimmy",
                 "stars": 534,
@@ -1383,7 +1383,7 @@
                 "open_issues": 151,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11466,
+                "stars": 11468,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1551,7 +1551,7 @@
                 "open_issues": 89,
                 "owner": "Mermade",
                 "repo": "widdershins",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "api",
                   "asyncapi",
@@ -1767,7 +1767,7 @@
                 "open_issues": 102,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29062,
+                "stars": 29061,
                 "topics": [
                   "documentation",
                   "git",
@@ -1825,8 +1825,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T15:56:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-10T14:21:27Z",
+            "open_issues": 6,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 16,
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:08:55.853Z",
+    "last_updated": "2026-10-10T15:56:13.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1880,10 +1880,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T09:46:47Z",
-      "open_issues": 58,
+      "open_issues": 59,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1922,
+      "stars": 1923,
       "topics": []
     },
     "original_repository_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
