@@ -98,7 +98,7 @@
                 "id": 1272251780,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:04:42Z",
+                "last_commit": "2026-10-17T01:40:07Z",
                 "open_issues": 1,
                 "owner": "geml-spec",
                 "repo": "geml",
@@ -290,7 +290,7 @@
             "open_issues": 134,
             "owner": "commonmark",
             "repo": "commonmark-spec",
-            "stars": 5152,
+            "stars": 5151,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -373,7 +373,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60262,
+                "stars": 60261,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -492,11 +492,11 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T02:51:03Z",
+                "last_commit": "2026-10-17T05:28:30Z",
                 "open_issues": 79,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6383,
+                "stars": 6386,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -545,10 +545,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T17:56:51Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "hukkin",
                 "repo": "mdformat",
-                "stars": 829,
+                "stars": 828,
                 "topics": [
                   "cli",
                   "codeformatter",
@@ -578,7 +578,7 @@
                 "open_issues": 46,
                 "owner": "akiomik",
                 "repo": "mado",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "github-actions",
                   "linter",
@@ -714,7 +714,7 @@
                 "open_issues": 2,
                 "owner": "MarketingPipeline",
                 "repo": "Markdown-Tag",
-                "stars": 461,
+                "stars": 460,
                 "topics": [
                   "commonmark",
                   "custom-element",
@@ -1052,7 +1052,7 @@
                 "open_issues": 1,
                 "owner": "benbalter",
                 "repo": "word-to-markdown",
-                "stars": 1550,
+                "stars": 1549,
                 "topics": [
                   "cli",
                   "converter",
@@ -1383,7 +1383,7 @@
                 "open_issues": 152,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11475,
+                "stars": 11477,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1739,7 +1739,7 @@
                 "open_issues": 3,
                 "owner": "softcover",
                 "repo": "softcover",
-                "stars": 449,
+                "stars": 448,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -1825,8 +1825,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T14:53:25Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-17T11:39:51Z",
+            "open_issues": 5,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 16,
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:58:50.699Z",
+    "last_updated": "2026-10-17T13:52:51.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1880,7 +1880,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T09:46:47Z",
-      "open_issues": 64,
+      "open_issues": 65,
       "owner": "mundimark",
       "repo": "awesome-markdown",
       "stars": 1925,
