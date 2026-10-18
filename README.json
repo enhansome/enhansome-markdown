@@ -98,7 +98,7 @@
                 "id": 1272251780,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T01:40:07Z",
+                "last_commit": "2026-10-18T08:40:57Z",
                 "open_issues": 1,
                 "owner": "geml-spec",
                 "repo": "geml",
@@ -373,7 +373,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60261,
+                "stars": 60260,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -496,7 +496,7 @@
                 "open_issues": 79,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6386,
+                "stars": 6387,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -763,7 +763,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36014,
+                "stars": 36012,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -1140,7 +1140,7 @@
                 "open_issues": 16,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1185,7 +1185,7 @@
                 "id": 1138316448,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-27T20:47:57Z",
+                "last_commit": "2026-10-18T06:55:33Z",
                 "open_issues": 1,
                 "owner": "juanmanueldaza",
                 "repo": "linkedin2md",
@@ -1379,8 +1379,8 @@
                 "id": 2630230,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-03T06:13:37Z",
-                "open_issues": 152,
+                "last_commit": "2026-10-18T11:46:11Z",
+                "open_issues": 153,
                 "owner": "mixmark-io",
                 "repo": "turndown",
                 "stars": 11477,
@@ -1577,7 +1577,7 @@
                 "id": 73318407,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T10:30:23Z",
+                "last_commit": "2026-10-18T06:59:30Z",
                 "open_issues": 15,
                 "owner": "sourcey",
                 "repo": "moxygen",
@@ -1667,7 +1667,7 @@
                 "open_issues": 8,
                 "owner": "IonicaBizau",
                 "repo": "json2md",
-                "stars": 654,
+                "stars": 652,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1767,7 +1767,7 @@
                 "open_issues": 88,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29066,
+                "stars": 29068,
                 "topics": [
                   "documentation",
                   "git",
@@ -1825,8 +1825,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T11:39:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-18T12:20:57Z",
+            "open_issues": 4,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 16,
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:52:51.989Z",
+    "last_updated": "2026-10-18T14:06:59.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1880,7 +1880,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T09:46:47Z",
-      "open_issues": 65,
+      "open_issues": 66,
       "owner": "mundimark",
       "repo": "awesome-markdown",
       "stars": 1925,
