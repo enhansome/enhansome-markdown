@@ -71,7 +71,7 @@
                 "id": 1238126820,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-23T15:21:49Z",
+                "last_commit": "2026-10-23T21:25:48Z",
                 "open_issues": 0,
                 "owner": "markup-carve",
                 "repo": "awesome-carve",
@@ -98,7 +98,7 @@
                 "id": 1272251780,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:08:21Z",
+                "last_commit": "2026-10-24T10:12:10Z",
                 "open_issues": 1,
                 "owner": "geml-spec",
                 "repo": "geml",
@@ -287,7 +287,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T17:54:32Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "commonmark",
             "repo": "commonmark-spec",
             "stars": 5151,
@@ -317,7 +317,7 @@
             "open_issues": 135,
             "owner": "github",
             "repo": "cmark-gfm",
-            "stars": 1137,
+            "stars": 1140,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -763,7 +763,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36006,
+                "stars": 36004,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -1052,7 +1052,7 @@
                 "open_issues": 1,
                 "owner": "benbalter",
                 "repo": "word-to-markdown",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "cli",
                   "converter",
@@ -1383,7 +1383,7 @@
                 "open_issues": 154,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11481,
+                "stars": 11482,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1551,7 +1551,7 @@
                 "open_issues": 89,
                 "owner": "Mermade",
                 "repo": "widdershins",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "api",
                   "asyncapi",
@@ -1767,7 +1767,7 @@
                 "open_issues": 90,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29069,
+                "stars": 29071,
                 "topics": [
                   "documentation",
                   "git",
@@ -1825,7 +1825,7 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T15:17:43Z",
+            "last_commit": "2026-10-23T20:29:21Z",
             "open_issues": 4,
             "owner": "latebit-io",
             "repo": "demarkus",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:23:35.046Z",
+    "last_updated": "2026-10-24T14:05:42.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
