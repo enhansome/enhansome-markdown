@@ -152,7 +152,7 @@
             "open_issues": 58,
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6310,
+            "stars": 6311,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -373,7 +373,7 @@
                 "open_issues": 321,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60245,
+                "stars": 60246,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -496,7 +496,7 @@
                 "open_issues": 77,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6442,
+                "stars": 6443,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -522,7 +522,7 @@
                 "open_issues": 12,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
-                "stars": 1303,
+                "stars": 1302,
                 "topics": [
                   "lint",
                   "markdown",
@@ -545,7 +545,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-16T17:47:40Z",
-                "open_issues": 76,
+                "open_issues": 75,
                 "owner": "hukkin",
                 "repo": "mdformat",
                 "stars": 830,
@@ -578,7 +578,7 @@
                 "open_issues": 42,
                 "owner": "akiomik",
                 "repo": "mado",
-                "stars": 422,
+                "stars": 423,
                 "topics": [
                   "github-actions",
                   "linter",
@@ -640,7 +640,7 @@
                 "id": 1297480499,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T14:17:20Z",
+                "last_commit": "2026-11-20T20:16:28Z",
                 "open_issues": 3,
                 "owner": "txemi",
                 "repo": "darnlink",
@@ -1140,7 +1140,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1380,10 +1380,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T12:00:40Z",
-                "open_issues": 160,
+                "open_issues": 164,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11515,
+                "stars": 11517,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1763,11 +1763,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T16:51:40Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-21T09:24:28Z",
+                "open_issues": 25,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29100,
+                "stars": 29102,
                 "topics": [
                   "documentation",
                   "git",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:44:33.416Z",
+    "last_updated": "2026-11-21T17:44:34.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1883,7 +1883,7 @@
       "open_issues": 101,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1936,
+      "stars": 1937,
       "topics": []
     },
     "original_repository_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
