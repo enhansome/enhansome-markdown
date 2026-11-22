@@ -370,10 +370,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-08-22T00:21:50Z",
-                "open_issues": 321,
+                "open_issues": 323,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60246,
+                "stars": 60245,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -496,7 +496,7 @@
                 "open_issues": 77,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
-                "stars": 6443,
+                "stars": 6447,
                 "topics": [
                   "commonmark",
                   "lint",
@@ -518,7 +518,7 @@
                 "id": 46678080,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T05:22:54Z",
+                "last_commit": "2026-11-22T01:07:02Z",
                 "open_issues": 12,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
@@ -575,7 +575,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T14:27:42Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "akiomik",
                 "repo": "mado",
                 "stars": 423,
@@ -763,7 +763,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 35987,
+                "stars": 35985,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -1140,7 +1140,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1763,11 +1763,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T09:24:28Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-22T17:40:22Z",
+                "open_issues": 27,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29102,
+                "stars": 29103,
                 "topics": [
                   "documentation",
                   "git",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:44:34.684Z",
+    "last_updated": "2026-11-22T17:59:21.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1880,10 +1880,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T09:46:47Z",
-      "open_issues": 101,
+      "open_issues": 102,
       "owner": "mundimark",
       "repo": "awesome-markdown",
-      "stars": 1937,
+      "stars": 1936,
       "topics": []
     },
     "original_repository_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
