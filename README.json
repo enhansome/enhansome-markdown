@@ -152,7 +152,7 @@
             "open_issues": 56,
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6311,
+            "stars": 6310,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -317,7 +317,7 @@
             "open_issues": 142,
             "owner": "github",
             "repo": "cmark-gfm",
-            "stars": 1144,
+            "stars": 1145,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:14.629Z"
@@ -373,7 +373,7 @@
                 "open_issues": 323,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60243,
+                "stars": 60242,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -430,7 +430,7 @@
                 "open_issues": 9,
                 "owner": "gjtorikian",
                 "repo": "markdowntutorial.com",
-                "stars": 605,
+                "stars": 604,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:14.629Z"
@@ -492,8 +492,8 @@
                 "id": 32246828,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T05:43:19Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-24T02:33:47Z",
+                "open_issues": 78,
                 "owner": "DavidAnson",
                 "repo": "markdownlint",
                 "stars": 6447,
@@ -518,8 +518,8 @@
                 "id": 46678080,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T20:55:04Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-24T06:46:03Z",
+                "open_issues": 8,
                 "owner": "DavidAnson",
                 "repo": "vscode-markdownlint",
                 "stars": 1303,
@@ -640,11 +640,11 @@
                 "id": 1297480499,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T20:16:28Z",
+                "last_commit": "2026-11-24T19:18:22Z",
                 "open_issues": 3,
                 "owner": "txemi",
                 "repo": "darnlink",
-                "stars": 20,
+                "stars": 19,
                 "topics": [
                   "cli",
                   "documentation",
@@ -763,7 +763,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 35983,
+                "stars": 35981,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -908,7 +908,7 @@
                 "open_issues": 134,
                 "owner": "jonschlinkert",
                 "repo": "remarkable",
-                "stars": 5841,
+                "stars": 5840,
                 "topics": [
                   "commonmark",
                   "compile",
@@ -941,7 +941,7 @@
                 "id": 193946347,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T06:29:59Z",
+                "last_commit": "2026-11-24T01:28:32Z",
                 "open_issues": 1,
                 "owner": "kubernetes-sigs",
                 "repo": "mdtoc",
@@ -1380,10 +1380,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T12:00:40Z",
-                "open_issues": 164,
+                "open_issues": 160,
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11517,
+                "stars": 11516,
                 "topics": [
                   "browser",
                   "commonmark",
@@ -1763,11 +1763,11 @@
                 "id": 18280236,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T17:45:05Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-24T18:33:27Z",
+                "open_issues": 28,
                 "owner": "GitbookIO",
                 "repo": "gitbook",
-                "stars": 29105,
+                "stars": 29104,
                 "topics": [
                   "documentation",
                   "git",
@@ -1825,8 +1825,8 @@
             "id": 1158150476,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T20:53:06Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-24T20:30:55Z",
+            "open_issues": 8,
             "owner": "latebit-io",
             "repo": "demarkus",
             "stars": 16,
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:10:56.690Z",
+    "last_updated": "2026-11-24T20:48:09.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)",
@@ -1880,7 +1880,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T09:46:47Z",
-      "open_issues": 104,
+      "open_issues": 106,
       "owner": "mundimark",
       "repo": "awesome-markdown",
       "stars": 1936,
